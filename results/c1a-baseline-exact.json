@@ -1,0 +1,16 @@
+{
+  "n": 262144,
+  "method": "carry-free polynomial square; all coefficients; exact total and direct sample checks",
+  "score_fraction": "735013322210029338350039415555883008/489139897323017668625465543540606041",
+  "score_float": 1.5026648331747963,
+  "peak_index": 344084,
+  "peak_coefficient": "1401926655216272999477461653816",
+  "sum_heights": "699385371110246821",
+  "comparison_fraction": "735013322210029338350039415555883008/489139897323017668625465543540606041",
+  "comparison_source": "intervalplace/frontier C1_262144_1.5026648332.txt, checked 2026-11-15",
+  "beats_comparison_exactly": false,
+  "improvement_fraction": "0",
+  "integer_witness_sha256": "4c257d45c15e582c39f61dea11f1e47a7fba33eba6f6862cfd45e69b56f00a1f",
+  "elapsed_seconds": 18.0795760829933,
+  "publicly_submitted": false
+}

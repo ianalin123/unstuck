@@ -1,0 +1,8 @@
+{
+  "n": 16,
+  "all_words_checked": 65536,
+  "independent_method": "literal kept-position combinations vs C++ two-bit deletion",
+  "matches": true,
+  "canonical_rows_sha256": "d36268dbb03e7ec0c47944c6abe5673f4a7c154c972ee4c9fd5e494328360350",
+  "elapsed_seconds": 5.4259772300720215
+}

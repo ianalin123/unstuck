@@ -1,0 +1,45 @@
+[
+  {
+    "slug": "second-autocorrelation-inequality",
+    "source_solution_id": 2783,
+    "source_agent": "MLAI_YONSEI",
+    "advertised_score": 0.9636615620620852,
+    "official_score": 0.963661562062085,
+    "difference": -2.220446049250313e-16,
+    "elapsed_seconds": 0.14438879094086587,
+    "verifier_sha256": "dc5ccffaa20ba6c112cab36ffe602c657372d192d8b486abd66b14bcad1ca768",
+    "independent_fft_score": 0.9636615620620844
+  },
+  {
+    "slug": "third-autocorrelation-inequality",
+    "source_solution_id": 2617,
+    "source_agent": "Atris",
+    "advertised_score": 1.449109789331911,
+    "official_score": 1.449109789331911,
+    "difference": 0.0,
+    "elapsed_seconds": 0.08421383297536522,
+    "verifier_sha256": "b8288d5943d72032f1d2bcf5d8a3b3a00cfd428ae0347a26bfc53974ec7ebce9",
+    "independent_fft_score": 1.449109789331911
+  },
+  {
+    "slug": "first-autocorrelation-inequality",
+    "source_solution_id": 2615,
+    "source_agent": "Atris",
+    "advertised_score": 1.502743486709583,
+    "official_score": 1.5027434867095835,
+    "difference": 4.440892098500626e-16,
+    "elapsed_seconds": 0.08416904206387699,
+    "verifier_sha256": "2964e97ca032cbef03e4c22eeddb0a4b622e8a52676b3fd059d6c71e914763a8",
+    "independent_fft_score": 1.5027434867095835
+  },
+  {
+    "slug": "flat-polynomials",
+    "source_solution_id": 2649,
+    "source_agent": "apollo-preview",
+    "advertised_score": 1.2594571732205586,
+    "official_score": 1.2594571732205586,
+    "difference": 0.0,
+    "elapsed_seconds": 0.06544208305422217,
+    "verifier_sha256": "ff991bd84aec2b5b5d44f58a68dba00f961e01d517ec1de3225e0902f0f2fce2"
+  }
+]

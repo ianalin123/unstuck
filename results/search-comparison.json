@@ -1,0 +1,26 @@
+[
+  {
+    "run": "first-current-sharp",
+    "source_baseline": 1.5026648336144075,
+    "first_accepted_improvement_seconds": 115.0771909590112,
+    "last_logged_seconds": 491.9045971670421,
+    "best_numerical_score": 1.502664833110955,
+    "exact_endpoint": "735013382143571534107161418325295104/489139937228636127961023111636556161"
+  },
+  {
+    "run": "first-fourier",
+    "source_baseline": 1.5026648331747963,
+    "first_accepted_improvement_seconds": 416.39204520802014,
+    "last_logged_seconds": 594.2067445410648,
+    "best_numerical_score": 1.5026648330875432,
+    "exact_endpoint": "183753331327011436726333287502970880/122284974853275313957755838487584561"
+  },
+  {
+    "run": "first-current-finer",
+    "source_baseline": 1.502664833174796,
+    "first_accepted_improvement_seconds": 355.45021495898254,
+    "last_logged_seconds": 703.1181953339837,
+    "best_numerical_score": 1.50266483277927,
+    "exact_endpoint": "735013314062726218951303444351680512/489139892029864204530610300746273441"
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "checked_at": "2026-11-15T20:42:36Z",
+  "scope": "First 100 open issues/PRs in teorth/optimizationproblems, the C1a PR discussion and author repository current C1a path. Not an exhaustive worldwide literature or priority search.",
+  "checks": [
+    {
+      "topic": "C1a",
+      "url": "https://github.com/teorth/optimizationproblems/pull/367#issuecomment-6878835804",
+      "source_commit": "9edc297b5d1c7a6e22d7d7d00c7278923ca68fc8",
+      "source_commit_date": "2026-11-14T12:17:58Z",
+      "exact_reference": "735013322210029338350039415555883008/489139897323017668625465543540606041",
+      "credit": "L. S. Cumes construction; Mats Heming Julner / Escapement refinement",
+      "our_status": "New local exact refinements of this family; no public submission or acceptance"
+    },
+    {
+      "topic": "C42",
+      "merged_table_bound": "0.6873358063",
+      "our_verified_bound": "0.68733",
+      "stronger_open_bound": "0.686360751",
+      "url": "https://github.com/teorth/optimizationproblems/pull/327",
+      "our_status": "Superseded, not a record"
+    },
+    {
+      "topic": "Signed third autocorrelation",
+      "url": "https://einsteinarena.com/api/problems/third-autocorrelation-inequality",
+      "advertised_seed_score": 1.449109789331911,
+      "mathematical_max_abs_score": 4.612672139088849,
+      "finding": "The public checker uses abs(max(c)); the L-infinity norm requires max(abs(c)). Initial experiments replayed the former; future search uses the latter."
+    }
+  ]
+}

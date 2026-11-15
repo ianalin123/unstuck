@@ -1,0 +1,65 @@
+{"event": "start", "kind": "first", "source_solution_id": 2615, "source_agent": "Atris", "source_advertised": 1.502743486709583, "baseline": 1.5027434867095832, "n": 131072, "args": {"check_gradient": false, "kind": "first", "seconds": 180, "iterations": 2000, "repeat": 2, "seed_index": 0, "random_seed": 42, "noise": 0, "betas": "100000000,1000000000,10000000000", "name": "first-sharp-upsample", "max_conflicts": 4, "drops": 12, "window_start": -1, "window_width": 2, "window_all": false, "nodes": 500000, "stop_after_improvement": false}, "elapsed_seconds": 0.009129457990638912}
+{"event": "progress", "kind": "first", "n": 131072, "beta": 100000000.0, "calls": 100, "score": 1.5027435159587323, "best": 1.5027434867095832, "elapsed_seconds": 2.3107520000776276}
+{"event": "progress", "kind": "first", "n": 131072, "beta": 100000000.0, "calls": 200, "score": 1.5027435193889644, "best": 1.5027434867095832, "elapsed_seconds": 4.316113500040956}
+{"event": "progress", "kind": "first", "n": 131072, "beta": 100000000.0, "calls": 300, "score": 1.5027435201311836, "best": 1.5027434867095832, "elapsed_seconds": 6.387567291967571}
+{"event": "progress", "kind": "first", "n": 131072, "beta": 100000000.0, "calls": 400, "score": 1.5027435197072583, "best": 1.5027434867095832, "elapsed_seconds": 8.446968249976635}
+{"event": "progress", "kind": "first", "n": 131072, "beta": 100000000.0, "calls": 500, "score": 1.502743521224105, "best": 1.5027434867095832, "elapsed_seconds": 10.762006166973151}
+{"event": "progress", "kind": "first", "n": 131072, "beta": 100000000.0, "calls": 600, "score": 1.5027435193310887, "best": 1.5027434867095832, "elapsed_seconds": 12.878520417027175}
+{"event": "progress", "kind": "first", "n": 131072, "beta": 100000000.0, "calls": 700, "score": 1.5027435201666794, "best": 1.5027434867095832, "elapsed_seconds": 15.202255917014554}
+{"event": "progress", "kind": "first", "n": 131072, "beta": 100000000.0, "calls": 800, "score": 1.5027435206684325, "best": 1.5027434867095832, "elapsed_seconds": 18.35100662498735}
+{"event": "progress", "kind": "first", "n": 131072, "beta": 100000000.0, "calls": 900, "score": 1.5027435181232238, "best": 1.5027434867095832, "elapsed_seconds": 20.96098462503869}
+{"event": "progress", "kind": "first", "n": 131072, "beta": 100000000.0, "calls": 1000, "score": 1.5027435208709472, "best": 1.5027434867095832, "elapsed_seconds": 23.181282458011992}
+{"event": "progress", "kind": "first", "n": 131072, "beta": 100000000.0, "calls": 1100, "score": 1.50274352103673, "best": 1.5027434867095832, "elapsed_seconds": 25.575503417057917}
+{"event": "progress", "kind": "first", "n": 131072, "beta": 100000000.0, "calls": 1200, "score": 1.50274351923534, "best": 1.5027434867095832, "elapsed_seconds": 27.925326625001617}
+{"event": "progress", "kind": "first", "n": 131072, "beta": 100000000.0, "calls": 1300, "score": 1.5027435204209956, "best": 1.5027434867095832, "elapsed_seconds": 30.111950042075478}
+{"event": "progress", "kind": "first", "n": 131072, "beta": 100000000.0, "calls": 1400, "score": 1.5027435192144896, "best": 1.5027434867095832, "elapsed_seconds": 32.40809766703751}
+{"event": "progress", "kind": "first", "n": 131072, "beta": 100000000.0, "calls": 1500, "score": 1.5027435192961425, "best": 1.5027434867095832, "elapsed_seconds": 34.83614158304408}
+{"event": "progress", "kind": "first", "n": 131072, "beta": 100000000.0, "calls": 1600, "score": 1.5027435201180652, "best": 1.5027434867095832, "elapsed_seconds": 37.21199008298572}
+{"event": "progress", "kind": "first", "n": 131072, "beta": 100000000.0, "calls": 1700, "score": 1.50274352105547, "best": 1.5027434867095832, "elapsed_seconds": 39.66613587504253}
+{"event": "progress", "kind": "first", "n": 131072, "beta": 100000000.0, "calls": 1800, "score": 1.5027435217219611, "best": 1.5027434867095832, "elapsed_seconds": 41.470815457985736}
+{"event": "progress", "kind": "first", "n": 131072, "beta": 100000000.0, "calls": 1900, "score": 1.5027435190432616, "best": 1.5027434867095832, "elapsed_seconds": 43.310016000061296}
+{"event": "progress", "kind": "first", "n": 131072, "beta": 100000000.0, "calls": 2000, "score": 1.5027435205982451, "best": 1.5027434867095832, "elapsed_seconds": 45.252390125067905}
+{"event": "stage_end", "beta": 100000000.0, "iterations": 2000, "message": "STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT", "best": 1.5027434867095832, "elapsed_seconds": 46.50613049999811}
+{"event": "progress", "kind": "first", "n": 131072, "beta": 1000000000.0, "calls": 100, "score": 1.5027434995096258, "best": 1.5027434867095832, "elapsed_seconds": 49.20259841706138}
+{"event": "progress", "kind": "first", "n": 131072, "beta": 1000000000.0, "calls": 200, "score": 1.5027434970965712, "best": 1.5027434867095832, "elapsed_seconds": 52.14953045803122}
+{"event": "progress", "kind": "first", "n": 131072, "beta": 1000000000.0, "calls": 300, "score": 1.502743496423467, "best": 1.5027434867095832, "elapsed_seconds": 54.579483499983326}
+{"event": "progress", "kind": "first", "n": 131072, "beta": 1000000000.0, "calls": 400, "score": 1.5027434951281018, "best": 1.5027434867095832, "elapsed_seconds": 56.473553000018}
+{"event": "progress", "kind": "first", "n": 131072, "beta": 1000000000.0, "calls": 500, "score": 1.5027434943490698, "best": 1.5027434867095832, "elapsed_seconds": 58.229515250073746}
+{"event": "progress", "kind": "first", "n": 131072, "beta": 1000000000.0, "calls": 600, "score": 1.5027434938228945, "best": 1.5027434867095832, "elapsed_seconds": 59.79576312506106}
+{"event": "progress", "kind": "first", "n": 131072, "beta": 1000000000.0, "calls": 700, "score": 1.5027434933702124, "best": 1.5027434867095832, "elapsed_seconds": 61.52213245804887}
+{"event": "progress", "kind": "first", "n": 131072, "beta": 1000000000.0, "calls": 800, "score": 1.502743493254581, "best": 1.5027434867095832, "elapsed_seconds": 63.840002292068675}
+{"event": "progress", "kind": "first", "n": 131072, "beta": 1000000000.0, "calls": 900, "score": 1.502743492818754, "best": 1.5027434867095832, "elapsed_seconds": 66.03512579202652}
+{"event": "progress", "kind": "first", "n": 131072, "beta": 1000000000.0, "calls": 1000, "score": 1.5027434925713417, "best": 1.5027434867095832, "elapsed_seconds": 67.9499839580385}
+{"event": "progress", "kind": "first", "n": 131072, "beta": 1000000000.0, "calls": 1100, "score": 1.502743492426239, "best": 1.5027434867095832, "elapsed_seconds": 69.61463737499435}
+{"event": "progress", "kind": "first", "n": 131072, "beta": 1000000000.0, "calls": 1200, "score": 1.502743492172953, "best": 1.5027434867095832, "elapsed_seconds": 71.38290804205462}
+{"event": "progress", "kind": "first", "n": 131072, "beta": 1000000000.0, "calls": 1300, "score": 1.5027434920117937, "best": 1.5027434867095832, "elapsed_seconds": 73.07181079196744}
+{"event": "progress", "kind": "first", "n": 131072, "beta": 1000000000.0, "calls": 1400, "score": 1.502743491998587, "best": 1.5027434867095832, "elapsed_seconds": 74.61879325006157}
+{"event": "progress", "kind": "first", "n": 131072, "beta": 1000000000.0, "calls": 1500, "score": 1.5027434916229125, "best": 1.5027434867095832, "elapsed_seconds": 76.80016958306078}
+{"event": "progress", "kind": "first", "n": 131072, "beta": 1000000000.0, "calls": 1600, "score": 1.5027434915009044, "best": 1.5027434867095832, "elapsed_seconds": 78.4164612920722}
+{"event": "progress", "kind": "first", "n": 131072, "beta": 1000000000.0, "calls": 1700, "score": 1.5027434913380722, "best": 1.5027434867095832, "elapsed_seconds": 80.11153220804408}
+{"event": "progress", "kind": "first", "n": 131072, "beta": 1000000000.0, "calls": 1800, "score": 1.5027434912957993, "best": 1.5027434867095832, "elapsed_seconds": 81.69890833296813}
+{"event": "progress", "kind": "first", "n": 131072, "beta": 1000000000.0, "calls": 1900, "score": 1.5027434908967234, "best": 1.5027434867095832, "elapsed_seconds": 84.610996042029}
+{"event": "progress", "kind": "first", "n": 131072, "beta": 1000000000.0, "calls": 2000, "score": 1.5027434912535815, "best": 1.5027434867095832, "elapsed_seconds": 87.38802645797841}
+{"event": "stage_end", "beta": 1000000000.0, "iterations": 2000, "message": "STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT", "best": 1.5027434867095832, "elapsed_seconds": 89.31672362505924}
+{"event": "progress", "kind": "first", "n": 131072, "beta": 10000000000.0, "calls": 100, "score": 1.5027434891068046, "best": 1.5027434867095832, "elapsed_seconds": 91.58774712507147}
+{"event": "progress", "kind": "first", "n": 131072, "beta": 10000000000.0, "calls": 200, "score": 1.5027434888390876, "best": 1.5027434867095832, "elapsed_seconds": 93.53602150001097}
+{"event": "progress", "kind": "first", "n": 131072, "beta": 10000000000.0, "calls": 300, "score": 1.5027434887300994, "best": 1.5027434867095832, "elapsed_seconds": 95.33430079207756}
+{"event": "progress", "kind": "first", "n": 131072, "beta": 10000000000.0, "calls": 400, "score": 1.5027434885993556, "best": 1.5027434867095832, "elapsed_seconds": 96.96967120806221}
+{"event": "progress", "kind": "first", "n": 131072, "beta": 10000000000.0, "calls": 500, "score": 1.5027434884859212, "best": 1.5027434867095832, "elapsed_seconds": 98.5381899169879}
+{"event": "progress", "kind": "first", "n": 131072, "beta": 10000000000.0, "calls": 600, "score": 1.502743488435092, "best": 1.5027434867095832, "elapsed_seconds": 100.22717087506317}
+{"event": "progress", "kind": "first", "n": 131072, "beta": 10000000000.0, "calls": 700, "score": 1.5027434883960868, "best": 1.5027434867095832, "elapsed_seconds": 101.94814654206857}
+{"event": "progress", "kind": "first", "n": 131072, "beta": 10000000000.0, "calls": 800, "score": 1.5027434883540216, "best": 1.5027434867095832, "elapsed_seconds": 103.72176745801698}
+{"event": "progress", "kind": "first", "n": 131072, "beta": 10000000000.0, "calls": 900, "score": 1.502743488304429, "best": 1.5027434867095832, "elapsed_seconds": 105.56163437501527}
+{"event": "progress", "kind": "first", "n": 131072, "beta": 10000000000.0, "calls": 1000, "score": 1.5027434882975372, "best": 1.5027434867095832, "elapsed_seconds": 107.12296775006689}
+{"event": "progress", "kind": "first", "n": 131072, "beta": 10000000000.0, "calls": 1100, "score": 1.5027434882482984, "best": 1.5027434867095832, "elapsed_seconds": 108.65717804199085}
+{"event": "progress", "kind": "first", "n": 131072, "beta": 10000000000.0, "calls": 1200, "score": 1.5027434882195028, "best": 1.5027434867095832, "elapsed_seconds": 110.31881325005088}
+{"event": "progress", "kind": "first", "n": 131072, "beta": 10000000000.0, "calls": 1300, "score": 1.5027434881906188, "best": 1.5027434867095832, "elapsed_seconds": 111.89378983306233}
+{"event": "progress", "kind": "first", "n": 131072, "beta": 10000000000.0, "calls": 1400, "score": 1.5027434881820747, "best": 1.5027434867095832, "elapsed_seconds": 113.54610087501351}
+{"event": "progress", "kind": "first", "n": 131072, "beta": 10000000000.0, "calls": 1500, "score": 1.502743488141764, "best": 1.5027434867095832, "elapsed_seconds": 115.08593704202212}
+{"event": "progress", "kind": "first", "n": 131072, "beta": 10000000000.0, "calls": 1600, "score": 1.5027434881448083, "best": 1.5027434867095832, "elapsed_seconds": 116.88522725005168}
+{"event": "progress", "kind": "first", "n": 131072, "beta": 10000000000.0, "calls": 1700, "score": 1.5027434881318213, "best": 1.5027434867095832, "elapsed_seconds": 118.42016658303328}
+{"event": "progress", "kind": "first", "n": 131072, "beta": 10000000000.0, "calls": 1800, "score": 1.50274348810631, "best": 1.5027434867095832, "elapsed_seconds": 120.00797000003513}
+{"event": "progress", "kind": "first", "n": 131072, "beta": 10000000000.0, "calls": 1900, "score": 1.5027434881041284, "best": 1.5027434867095832, "elapsed_seconds": 121.6220881670015}
+{"event": "progress", "kind": "first", "n": 131072, "beta": 10000000000.0, "calls": 2000, "score": 1.502743488085554, "best": 1.5027434867095832, "elapsed_seconds": 123.21777241700329}
+{"event": "stage_end", "beta": 10000000000.0, "iterations": 2000, "message": "STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT", "best": 1.5027434867095832, "elapsed_seconds": 124.19366212503519}
+{"event": "finish", "kind": "first", "baseline": 1.5027434867095832, "best_fft_score": 1.5027434867095832, "source_score": 1.502743486709583, "source_solution_id": 2615, "elapsed_seconds": 124.21514383307658, "officially_verified": false, "publicly_submitted": false}

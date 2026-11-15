@@ -1,0 +1,25 @@
+[
+  {
+    "n": 1,
+    "height_bits": 1,
+    "exact_matches_direct": true
+  },
+  {
+    "n": 2,
+    "height_bits": 8,
+    "exact_matches_direct": true
+  },
+  {
+    "n": 17,
+    "height_bits": 16,
+    "exact_matches_direct": true
+  },
+  {
+    "n": 31,
+    "height_bits": 50,
+    "exact_matches_direct": true
+  },
+  {
+    "negative_heights_refused": true
+  }
+]

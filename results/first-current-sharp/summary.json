@@ -1,0 +1,13 @@
+{
+  "kind": "first",
+  "baseline": 1.5026648336144075,
+  "best_fft_score": 1.502664833110955,
+  "source_score": 1.502664833614408,
+  "source_solution_id": "research/track1/data/c1a-current/C1_262144_1.5026648336.txt.gz",
+  "elapsed_seconds": 491.9017422089819,
+  "officially_verified": false,
+  "publicly_submitted": false,
+  "exactly_verified": true,
+  "comparison": "Newest public C1a witness checked, exact rational in exact-verification.json",
+  "worldwide_priority_exhaustive": false
+}

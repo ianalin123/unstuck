@@ -1,0 +1,12 @@
+{"event": "start", "kind": "third", "source_solution_id": 2617, "source_agent": "Atris", "source_advertised": 1.449109789331911, "baseline": 1.449109789331911, "n": 131072, "args": {"check_gradient": false, "kind": "third", "seconds": 180, "iterations": 120, "repeat": 2, "seed_index": 0, "random_seed": 42, "noise": 0, "betas": "1000,10000,100000,1000000,10000000", "name": "third-upsample"}, "elapsed_seconds": 0.008934124954976141}
+{"event": "progress", "kind": "third", "n": 131072, "beta": 1000.0, "calls": 100, "score": 1.4509390898049273, "best": 1.449109789331911, "elapsed_seconds": 2.0326657079858705}
+{"event": "stage_end", "beta": 1000.0, "iterations": 120, "message": "STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT", "best": 1.449109789331911, "elapsed_seconds": 2.4706578749464825}
+{"event": "progress", "kind": "third", "n": 131072, "beta": 10000.0, "calls": 100, "score": 1.4495982185275658, "best": 1.449109789331911, "elapsed_seconds": 4.024979874957353}
+{"event": "stage_end", "beta": 10000.0, "iterations": 120, "message": "STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT", "best": 1.449109789331911, "elapsed_seconds": 4.33261845796369}
+{"event": "progress", "kind": "third", "n": 131072, "beta": 100000.0, "calls": 100, "score": 1.4492474522750738, "best": 1.449109789331911, "elapsed_seconds": 6.0295983330579475}
+{"event": "stage_end", "beta": 100000.0, "iterations": 120, "message": "STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT", "best": 1.449109789331911, "elapsed_seconds": 6.790634208009578}
+{"event": "progress", "kind": "third", "n": 131072, "beta": 1000000.0, "calls": 100, "score": 1.4491987996876274, "best": 1.449109789331911, "elapsed_seconds": 8.045834750053473}
+{"event": "stage_end", "beta": 1000000.0, "iterations": 120, "message": "STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT", "best": 1.449109789331911, "elapsed_seconds": 8.380864916951396}
+{"event": "progress", "kind": "third", "n": 131072, "beta": 10000000.0, "calls": 100, "score": 1.4491928373675935, "best": 1.449109789331911, "elapsed_seconds": 9.628245875006542}
+{"event": "stage_end", "beta": 10000000.0, "iterations": 120, "message": "STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT", "best": 1.449109789331911, "elapsed_seconds": 10.025212957989424}
+{"event": "finish", "kind": "third", "baseline": 1.449109789331911, "best_fft_score": 1.449109789331911, "source_score": 1.449109789331911, "source_solution_id": 2617, "elapsed_seconds": 10.0621365000261, "officially_verified": false, "publicly_submitted": false}

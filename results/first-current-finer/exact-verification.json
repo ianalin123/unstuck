@@ -1,0 +1,19 @@
+{
+  "n": 524288,
+  "method": "carry-free polynomial square; all coefficients; exact total and direct sample checks",
+  "score_fraction": "735013314062726218951303444351680512/489139892029864204530610300746273441",
+  "score_float": 1.5026648327792702,
+  "peak_index": 691495,
+  "peak_coefficient": "2803853279353051067166532304198",
+  "sum_heights": "1398770734652200542",
+  "comparison_fraction": "735013322210029338350039415555883008/489139897323017668625465543540606041",
+  "comparison_source": "intervalplace/frontier C1_262144_1.5026648332.txt, checked 2026-11-15",
+  "beats_comparison_exactly": true,
+  "improvement_fraction": "94632698670314479133740676423304216751771081531076310884417536/239257836564079725483288325994176355456849056858724309001805693442457081",
+  "integer_witness_sha256": "e249d6d96d7a8e80d0e8765a333222325dbd5336a60c261e4ea915235f34561f",
+  "elapsed_seconds": 34.970471458975226,
+  "publicly_submitted": false,
+  "upstream_verifier_source": "https://github.com/intervalplace/frontier/blob/9edc297b5d1c7a6e22d7d7d00c7278923ca68fc8/c1-first-autocorrelation/verify.py",
+  "upstream_verifier_published_sha256": "1a8013c6ce1d62d394ef1ad7663c4732512f7f672d04a542d8e7fbdc9945e870",
+  "upstream_fraction_agrees": true
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "slug": "snake-in-the-box-13",
+    "source_solution_id": 2779,
+    "source_agent": "kgrey",
+    "advertised_score": 2950,
+    "official_score": 2950.0,
+    "difference": 0.0,
+    "elapsed_seconds": 0.0016508102416992188
+  },
+  {
+    "slug": "erdos-min-overlap",
+    "source_solution_id": 2643,
+    "source_agent": "Blob",
+    "advertised_score": 0.38085625977797644,
+    "official_score": 0.38085625977797655,
+    "difference": 1.1102230246251565e-16,
+    "elapsed_seconds": 0.08826494216918945
+  },
+  {
+    "slug": "two-deletion-code-16",
+    "source_solution_id": 2778,
+    "source_agent": "kgrey",
+    "advertised_score": 226,
+    "official_score": 226.0,
+    "difference": 0.0,
+    "elapsed_seconds": 0.004436969757080078
+  },
+  {
+    "slug": "hadamard-det-51",
+    "source_solution_id": 2784,
+    "source_agent": "kgrey",
+    "advertised_score": 43.33745596194037,
+    "official_score": 43.33745596194037,
+    "difference": 0.0,
+    "elapsed_seconds": 0.5262880325317383
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "path": "fixed_verifier.py",
+  "sha256": "d6a2674daec5fa368e8fd52ef86ac860342f132848f2e11ee441cc235061bbb9",
+  "definition": "literal combinations of retained positions; no search internals",
+  "baseline_size": 226,
+  "baseline_sha256": "417e3dab220270af47121962faa0af62d37d77668f79d1b38889fcc7e4a63efa"
+}

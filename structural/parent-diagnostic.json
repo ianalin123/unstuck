@@ -1,0 +1,32 @@
+{
+  "source_size": 226,
+  "blocker_histogram": {
+    "2": 184,
+    "3": 983,
+    "4": 3204,
+    "5": 7002,
+    "6": 11232,
+    "7": 13051,
+    "8": 12377,
+    "9": 8806,
+    "10": 5031,
+    "1": 1,
+    "11": 2395,
+    "12": 778,
+    "13": 211,
+    "14": 45,
+    "15": 9,
+    "16": 1
+  },
+  "one_blocker_groups": [
+    {
+      "blocker": 584,
+      "alternatives": [
+        1096
+      ]
+    }
+  ],
+  "one_blocker_alternatives": 1,
+  "two_blocker_groups": 133,
+  "status": "diagnostic, not a global bound"
+}

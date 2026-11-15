@@ -1,0 +1,10 @@
+{
+  "kind": "first",
+  "baseline": 1.5027434867095832,
+  "best_fft_score": 1.5027434867095832,
+  "source_score": 1.502743486709583,
+  "source_solution_id": 2615,
+  "elapsed_seconds": 124.21472449996509,
+  "officially_verified": false,
+  "publicly_submitted": false
+}

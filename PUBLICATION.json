@@ -1,0 +1,7 @@
+{
+  "project": "Unstuck",
+  "snapshot_date": "2026-11-15",
+  "source_commit": "3fbfbcb169b478f4ba0065975f0d856139309bca",
+  "scope": "Track 1 files only; fresh Git history; private coordination sections removed",
+  "exact_witness_sha256": "e249d6d96d7a8e80d0e8765a333222325dbd5336a60c261e4ea915235f34561f"
+}

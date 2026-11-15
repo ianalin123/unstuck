@@ -1,0 +1,14 @@
+{
+  "kind": "c42",
+  "claimed_bound": 0.68733,
+  "cutoff": "51/250",
+  "certified": true,
+  "certificate_sha256": "de4dfa1e27f56ba00a6fac8ee7b25acdb9974217148adab64eb33d2dc9cb8995",
+  "record": false,
+  "reason": "Superseded by open Tao PR #327 bound 0.686360751",
+  "publicly_submitted": false,
+  "verified_by": [
+    "Koshta check_tau4 256 bits",
+    "separately written turan_c42 160 bits"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "kind": "deletion",
+  "status": "FEASIBLE",
+  "baseline": 226,
+  "best": 226,
+  "objective_bound": 289.0,
+  "wall_seconds": 45.015298,
+  "source_solution_id": 2778,
+  "max_conflicts": 4,
+  "drop_budget": -1,
+  "elapsed_seconds": 45.08495441696141,
+  "publicly_submitted": false
+}

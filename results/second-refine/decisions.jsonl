@@ -1,0 +1,13 @@
+{"event": "start", "kind": "second", "source_solution_id": 2783, "source_agent": "MLAI_YONSEI", "source_advertised": 0.9636615620620852, "baseline": 0.9636615620620841, "n": 1999999, "args": {"check_gradient": false, "kind": "second", "seconds": 180, "iterations": 120, "repeat": 1, "seed_index": 0, "random_seed": 42, "noise": 0, "betas": "1000,10000,100000,1000000,10000000", "name": "second-refine"}, "elapsed_seconds": 0.23444041598122567}
+{"event": "improvement", "kind": "second", "n": 1999999, "beta": 1000.0, "score": 0.9636615620620845, "calls": 1, "elapsed_seconds": 2.8224685000022873}
+{"event": "progress", "kind": "second", "n": 1999999, "beta": 1000.0, "calls": 100, "score": 0.9612605534637941, "best": 0.9636615620620845, "elapsed_seconds": 30.112745541031472}
+{"event": "stage_end", "beta": 1000.0, "iterations": 120, "message": "STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT", "best": 0.9636615620620845, "elapsed_seconds": 34.954794125049375}
+{"event": "progress", "kind": "second", "n": 1999999, "beta": 10000.0, "calls": 100, "score": 0.9629826062879902, "best": 0.9636615620620845, "elapsed_seconds": 59.692365708062425}
+{"event": "stage_end", "beta": 10000.0, "iterations": 120, "message": "STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT", "best": 0.9636615620620845, "elapsed_seconds": 64.13817170797847}
+{"event": "progress", "kind": "second", "n": 1999999, "beta": 100000.0, "calls": 100, "score": 0.9633959974032296, "best": 0.9636615620620845, "elapsed_seconds": 88.9258211250417}
+{"event": "stage_end", "beta": 100000.0, "iterations": 120, "message": "STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT", "best": 0.9636615620620845, "elapsed_seconds": 94.22739879100118}
+{"event": "progress", "kind": "second", "n": 1999999, "beta": 1000000.0, "calls": 100, "score": 0.9634512686552236, "best": 0.9636615620620845, "elapsed_seconds": 123.22023983299732}
+{"event": "stage_end", "beta": 1000000.0, "iterations": 120, "message": "STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT", "best": 0.9636615620620845, "elapsed_seconds": 134.28802641609218}
+{"event": "progress", "kind": "second", "n": 1999999, "beta": 10000000.0, "calls": 100, "score": 0.9634592070250477, "best": 0.9636615620620845, "elapsed_seconds": 177.7237900410546}
+{"event": "time_budget_exhausted", "beta": 10000000.0, "best": 0.9636615620620845, "elapsed_seconds": 180.2286827909993}
+{"event": "finish", "kind": "second", "baseline": 0.9636615620620841, "best_fft_score": 0.9636615620620845, "source_score": 0.9636615620620852, "source_solution_id": 2783, "elapsed_seconds": 180.52333604102023, "officially_verified": false, "publicly_submitted": false}

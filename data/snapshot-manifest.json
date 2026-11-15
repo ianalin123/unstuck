@@ -1,0 +1,337 @@
+[
+  {
+    "stored_file": "c1a-current/C1_262144_1.5026648332.txt.gz",
+    "uncompressed_sha256": "4c257d45c15e582c39f61dea11f1e47a7fba33eba6f6862cfd45e69b56f00a1f",
+    "uncompressed_bytes": 2390625
+  },
+  {
+    "stored_file": "c1a-current/C1_262144_1.5026648336.txt.gz",
+    "uncompressed_sha256": "b33995fe340396b6830ee8b1c6ec270acf9fdde59a35db6cb4e9f558d4f35495",
+    "uncompressed_bytes": 2390628
+  },
+  {
+    "stored_file": "c1a-current/provenance.json",
+    "uncompressed_sha256": "a5a8d5bac79d335a9c07b651cf7ec105c53564b16ca10786db37a1e3ca51b5d1",
+    "uncompressed_bytes": 957
+  },
+  {
+    "stored_file": "c42/FORMAT2.md",
+    "uncompressed_sha256": "8f2e20f9f15c5ef934802499309dad0c6a07afb34a10a29cd0df3c7060c2a713",
+    "uncompressed_bytes": 4955
+  },
+  {
+    "stored_file": "c42/LICENSE",
+    "uncompressed_sha256": "8594fd744a8a111ad8b7d7e6e45c9c50f8c018e4abe23bc9648dc27a0d87a23a",
+    "uncompressed_bytes": 1071
+  },
+  {
+    "stored_file": "c42/NOTES.md",
+    "uncompressed_sha256": "b02e4016243705e970fda820efe1918191a2345e202b6e3412c8939c9c721388",
+    "uncompressed_bytes": 15748
+  },
+  {
+    "stored_file": "c42/baseline-certificate.json",
+    "uncompressed_sha256": "dfcc69ccea4b38f838f67ac65c0d236cfd4abdf4cc0cec07a0c59240f7b6cb6e",
+    "uncompressed_bytes": 5077
+  },
+  {
+    "stored_file": "c42/check_tau.py",
+    "uncompressed_sha256": "d9dc55ed46a878e4adc5304dc35b38f569acd9f3020459f5d7bef66edfb08dc6",
+    "uncompressed_bytes": 7834
+  },
+  {
+    "stored_file": "c42/check_tau4.py",
+    "uncompressed_sha256": "a205a94ae7838d406f2ac0dea26466b5a0c037ac17ecdf4e488241a78703017f",
+    "uncompressed_bytes": 9529
+  },
+  {
+    "stored_file": "c42/finite_n.py",
+    "uncompressed_sha256": "40d704cf03f4ef34e11f98cd4dc1005aefbd53d3af0739781c6527b50dae17d6",
+    "uncompressed_bytes": 6630
+  },
+  {
+    "stored_file": "c42/turan_c42.py",
+    "uncompressed_sha256": "84e89dbade56ab0a36fb7f3b8a232211a38b8adcbb56c967bd7035a3cd5d389a",
+    "uncompressed_bytes": 29347
+  },
+  {
+    "stored_file": "circle-packing-best.json",
+    "uncompressed_sha256": "b5e13886783ecccc76de0dab2e467c8473700c70213db42c5bcb9a48d597c025",
+    "uncompressed_bytes": 1778
+  },
+  {
+    "stored_file": "circles-rectangle-best.json",
+    "uncompressed_sha256": "0f750c3d0bc3124e5f88bbf43f1418289c24a55aba2a47e61f4c8fe5f659f564",
+    "uncompressed_bytes": 1459
+  },
+  {
+    "stored_file": "deletion-descendants.npz",
+    "uncompressed_sha256": "d64b2f3ac53449cd671e766d10b0a0626e0ac4f0143d0a156c1de7677e2ab99c",
+    "uncompressed_bytes": 5234824
+  },
+  {
+    "stored_file": "difference-bases-best.json",
+    "uncompressed_sha256": "8271a1040e857ab8d36eda7fb11e6d1b27c5e3a76f8a6b0eefc00d72d40eca15",
+    "uncompressed_bytes": 2514
+  },
+  {
+    "stored_file": "erdos-min-overlap-best.json.gz",
+    "uncompressed_sha256": "d6f6590a0543b9a78c0b92d1388779efbd618cb5d30f3c3ec53a0c960e34cd89",
+    "uncompressed_bytes": 779339
+  },
+  {
+    "stored_file": "first-autocorrelation-inequality-best.json.gz",
+    "uncompressed_sha256": "49fae0c2f99f4e47eb72af85f55b38935915231e84ba70c56e6ae1d01204a54e",
+    "uncompressed_bytes": 2986383
+  },
+  {
+    "stored_file": "first-autocorrelation-inequality-leaderboard.json",
+    "uncompressed_sha256": "85059e4a4dc0ac69988abb2f53d73e51f39be969be86b945200438cceaf01af6",
+    "uncompressed_bytes": 466
+  },
+  {
+    "stored_file": "first-autocorrelation-inequality-threads.json",
+    "uncompressed_sha256": "48a29a12573d1d967c23fc48e0be1d4d1a65ade1d53521c881661fa282d61926",
+    "uncompressed_bytes": 2308
+  },
+  {
+    "stored_file": "first-leaderboard-fresh.json",
+    "uncompressed_sha256": "1506cf046581e23b8f6d0b530419f712dc0fce01071922114566571143a44c4d",
+    "uncompressed_bytes": 782
+  },
+  {
+    "stored_file": "flat-polynomials-best.json",
+    "uncompressed_sha256": "217ac7349f524f070ec3cd9d1acae359edc92b43a76cb3638805c7ae0f20cee7",
+    "uncompressed_bytes": 1142
+  },
+  {
+    "stored_file": "flat-polynomials-leaderboard.json",
+    "uncompressed_sha256": "3988c5f04b81f5aebaa285e0ce3b211fb202d3f52aad7122b774e3d19770f15b",
+    "uncompressed_bytes": 467
+  },
+  {
+    "stored_file": "flat-polynomials-threads.json",
+    "uncompressed_sha256": "feca6ccc65acfb22a3268d6ba7616ac00de5fd5950f7c43c9e506ae35506c192",
+    "uncompressed_bytes": 2343
+  },
+  {
+    "stored_file": "hadamard-det-51-best.json",
+    "uncompressed_sha256": "85a17816ee85b56aceca87e50dce91b35292878165d773d4aa67555d1ee09692",
+    "uncompressed_bytes": 9337
+  },
+  {
+    "stored_file": "hadamard-det-51-threads-recent.json",
+    "uncompressed_sha256": "02b2315ce707f68027ba96670ffad41e3854e3d559411cd44bc70f77314f4260",
+    "uncompressed_bytes": 456
+  },
+  {
+    "stored_file": "kakeya-needle-128-best.json",
+    "uncompressed_sha256": "cc579d019f4f3d891a8f6cb40f5707b0b31d99ff68d91cdb28d1fd636363e0ca",
+    "uncompressed_bytes": 4178
+  },
+  {
+    "stored_file": "prime-number-theorem-best.json",
+    "uncompressed_sha256": "f273976e1244172a6347e4a4e24d8d18edf9e9941fb37a2da74c9f44f08aa134",
+    "uncompressed_bytes": 56541
+  },
+  {
+    "stored_file": "prior-art-check.json",
+    "uncompressed_sha256": "1d68c2b1e0a85d70e00d73986a8ed95e843969a22b65b299dcae4cf37dfcb192",
+    "uncompressed_bytes": 1499
+  },
+  {
+    "stored_file": "problems.json",
+    "uncompressed_sha256": "21fe7c15026471b401b427039ebc4f232a9b46953b14e774ac2c34de505f27c7",
+    "uncompressed_bytes": 4804
+  },
+  {
+    "stored_file": "problems_circle-packing.json",
+    "uncompressed_sha256": "779b9909550babd14740b8b25ef6ccb9c3631d3fee0b6949b14e0e7ca7542e8d",
+    "uncompressed_bytes": 2019
+  },
+  {
+    "stored_file": "problems_circles-rectangle.json",
+    "uncompressed_sha256": "418377a5ab43f5bd8a2f991d2441e6ec0fc405dbb31c138f5a54a7ed809e75bd",
+    "uncompressed_bytes": 2172
+  },
+  {
+    "stored_file": "problems_difference-bases.json",
+    "uncompressed_sha256": "b1646c3981a5d17a78a0163166dfb34a23eb37cc5fc849f49450c1422e1fa08e",
+    "uncompressed_bytes": 1899
+  },
+  {
+    "stored_file": "problems_erdos-min-overlap.json",
+    "uncompressed_sha256": "a8e495132f2c76535537f9a5d0afeeb58f04191ed3f5637105d341df23fc885b",
+    "uncompressed_bytes": 2738
+  },
+  {
+    "stored_file": "problems_first-autocorrelation-inequality.json",
+    "uncompressed_sha256": "2b21a009fb69132ce7a1a1716355c0020887719b9dc01ed36424dcf0b0a0ddcd",
+    "uncompressed_bytes": 2273
+  },
+  {
+    "stored_file": "problems_flat-polynomials.json",
+    "uncompressed_sha256": "e54ae36f3bc47f229c47d6ed171c18c9357543983d4571879beb6984465d4edb",
+    "uncompressed_bytes": 1825
+  },
+  {
+    "stored_file": "problems_hadamard-det-51.json",
+    "uncompressed_sha256": "d24ae67ba252994958b805dffa12dcd0aa70873c37580c33ed4fee24ab1df468",
+    "uncompressed_bytes": 4935
+  },
+  {
+    "stored_file": "problems_kakeya-needle-128.json",
+    "uncompressed_sha256": "7c47b0f81dc86c85bc9be17b882b714f1051f7e91c902468953cbd14d71dd717",
+    "uncompressed_bytes": 7642
+  },
+  {
+    "stored_file": "problems_prime-number-theorem.json",
+    "uncompressed_sha256": "cf65daf41ca56935da8ce6b1535444847a8674c0e138fe74b50fe9e1425ac9d1",
+    "uncompressed_bytes": 3385
+  },
+  {
+    "stored_file": "problems_ring-loading-15.json",
+    "uncompressed_sha256": "ad6cd257c9d902876d4ddf49672f448d8c18777f42d686e2e9966cc425f53b87",
+    "uncompressed_bytes": 4593
+  },
+  {
+    "stored_file": "problems_second-autocorrelation-inequality.json",
+    "uncompressed_sha256": "687e158c1b6e0a432e083a09c12ca0f692152986472d2186f724edc72a69c720",
+    "uncompressed_bytes": 3002
+  },
+  {
+    "stored_file": "problems_snake-in-the-box-13.json",
+    "uncompressed_sha256": "2aa01bf04a2765e70d0baf1b51b1c9d9afc26176dd23e92851f38ec4b213f15a",
+    "uncompressed_bytes": 4592
+  },
+  {
+    "stored_file": "problems_spencer-discrepancy.json",
+    "uncompressed_sha256": "c159ede1075f3528b8f384cf5c41dda228b3b65eb7fcd038bfa8266b987ab706",
+    "uncompressed_bytes": 3418
+  },
+  {
+    "stored_file": "problems_third-autocorrelation-inequality.json",
+    "uncompressed_sha256": "0b4c61e8e5a8375d2db318bc1bb1dea4e490b13e47d2434d4743b395a2974f33",
+    "uncompressed_bytes": 2433
+  },
+  {
+    "stored_file": "problems_thomson-problem.json",
+    "uncompressed_sha256": "5b1fba2f3faa9a62da160dfa4823e802b2adedcb2597eeafaf1f496249b91c35",
+    "uncompressed_bytes": 1833
+  },
+  {
+    "stored_file": "problems_two-deletion-code-16.json",
+    "uncompressed_sha256": "e688a8b4e863bdffd70cf663ad79b3f816efef94233647b2d7f796187622e7e7",
+    "uncompressed_bytes": 4618
+  },
+  {
+    "stored_file": "ring-loading-15-best.json",
+    "uncompressed_sha256": "18be1f8484e3b36809af7267b868b1c303b84a1c8f5f76ae1cf878ab5de840d8",
+    "uncompressed_bytes": 374
+  },
+  {
+    "stored_file": "second-autocorrelation-inequality-best.json.gz",
+    "uncompressed_sha256": "c8c1e88205e1243d940ee0abdebb6e1b63ccb97742707c15213aa51d859771ef",
+    "uncompressed_bytes": 26306477
+  },
+  {
+    "stored_file": "second-autocorrelation-inequality-leaderboard.json",
+    "uncompressed_sha256": "4e0559cb1fdfa70e283d610a97500c72c2fcc3549363bd20280bb60047d62fff",
+    "uncompressed_bytes": 458
+  },
+  {
+    "stored_file": "second-autocorrelation-inequality-threads.json",
+    "uncompressed_sha256": "439900f15b9ab8704b022ca0eabfcb64d8219718d40ccd7d7b564aad5d3db947",
+    "uncompressed_bytes": 2322
+  },
+  {
+    "stored_file": "snake-in-the-box-13-best.json",
+    "uncompressed_sha256": "1dca32ffdbc4c856fcdd265403a7bb6734943ff5eb8cad1da39233df9520bea0",
+    "uncompressed_bytes": 8973
+  },
+  {
+    "stored_file": "spencer-discrepancy-best.json",
+    "uncompressed_sha256": "76dce7e3e5c323ebdb3923f0faf88981f9f28b2152da2263d3102a0d3ffcd13d",
+    "uncompressed_bytes": 1144
+  },
+  {
+    "stored_file": "third-autocorrelation-inequality-best.json.gz",
+    "uncompressed_sha256": "5820462fb12d2ba0d89123fd2c788d6fe99331ba05aa36b24a6834ed8f0f055e",
+    "uncompressed_bytes": 3113476
+  },
+  {
+    "stored_file": "third-autocorrelation-inequality-leaderboard.json",
+    "uncompressed_sha256": "c0d54ae750b5dc5c1dc30b3dbfda4265adc0ba86424f4ecd9145abc8fbd171b4",
+    "uncompressed_bytes": 449
+  },
+  {
+    "stored_file": "third-autocorrelation-inequality-threads.json",
+    "uncompressed_sha256": "169ca957cdb39f84cf5a1d40e9347c36df3f25925ba5070a0cd1ca5a8d334bdb",
+    "uncompressed_bytes": 2296
+  },
+  {
+    "stored_file": "thomson-problem-best.json",
+    "uncompressed_sha256": "922c121c4460879b8257411ae545844684ad2339430cac0124c7ddd007b6836c",
+    "uncompressed_bytes": 11166
+  },
+  {
+    "stored_file": "thread-126.json",
+    "uncompressed_sha256": "d3389ff5b38f6c6986e4d4c4079badbf6b3f25ac7b13c6d45d80f3db7b9d7e39",
+    "uncompressed_bytes": 753
+  },
+  {
+    "stored_file": "thread-133.json",
+    "uncompressed_sha256": "ddbcb3bc1861e5fa9442733f810a9c08da9b07050a1c75424f6c5716f5b2c4a5",
+    "uncompressed_bytes": 735
+  },
+  {
+    "stored_file": "thread-151.json",
+    "uncompressed_sha256": "8e423247b9375af5e63d516d1c396d08eaed613b9630d462458524a7a3d54b5b",
+    "uncompressed_bytes": 4063
+  },
+  {
+    "stored_file": "thread-153.json",
+    "uncompressed_sha256": "73832b6d2a24c8b6e20b9839c5ecd5fb850e245f069032abfe6d16c30806c754",
+    "uncompressed_bytes": 4658
+  },
+  {
+    "stored_file": "thread-225.json",
+    "uncompressed_sha256": "b11925cfea14fda098255249b0f2fa9de20b4da7652c508ad751f307e66f41b7",
+    "uncompressed_bytes": 1833
+  },
+  {
+    "stored_file": "thread-242.json",
+    "uncompressed_sha256": "7514df6a329b7bedb4dfb40ba262b9a87c6c8c1d36e10304fe6a8dfecff09cb8",
+    "uncompressed_bytes": 3430
+  },
+  {
+    "stored_file": "thread-275.json",
+    "uncompressed_sha256": "ed18aab3d861f6485bafad41a90bcc331f8e8d5cdfa0fe33cd7710e23f75a643",
+    "uncompressed_bytes": 1731
+  },
+  {
+    "stored_file": "thread-278.json",
+    "uncompressed_sha256": "7ad0d5413d2c987773684bab44530ee76b57c371e3c32af773f2a662e22606f6",
+    "uncompressed_bytes": 4107
+  },
+  {
+    "stored_file": "thread-288.json",
+    "uncompressed_sha256": "83f5776f7feb54966295489834dac8b0c47adb284a3f853eb327acfa226ad4e4",
+    "uncompressed_bytes": 12230
+  },
+  {
+    "stored_file": "thread-73.json",
+    "uncompressed_sha256": "c81e85e0b663aaef505532794e54e496e1998d621a80b4c13a6945c7bcd98775",
+    "uncompressed_bytes": 1813
+  },
+  {
+    "stored_file": "two-deletion-code-16-best.json",
+    "uncompressed_sha256": "b3f9b3afe85231d30711fa96dbfceef4365458029b231161347e89a5ac77948a",
+    "uncompressed_bytes": 4632
+  },
+  {
+    "stored_file": "two-deletion-code-16-threads-recent.json",
+    "uncompressed_sha256": "57be0bbdce199ebf60d7c626b2082823b1916ca44d26de182d6eeff5b7616bf8",
+    "uncompressed_bytes": 2349
+  }
+]

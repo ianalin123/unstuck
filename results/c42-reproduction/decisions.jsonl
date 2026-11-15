@@ -1,0 +1,3 @@
+{"event": "finite_n_diagnostic", "n": 65536, "baseline": 0.687979670474162, "candidate": 0.6879650787108202, "difference": -1.45917633417314e-05, "heuristic_continuum_estimate": 0.687321214423175, "elapsed_seconds": 0.12426570896059275, "certified": false}
+{"event": "finite_n_diagnostic", "n": 262144, "baseline": 0.6875837635407094, "candidate": 0.6875673824280876, "difference": -1.6381112621810523e-05, "heuristic_continuum_estimate": 0.6873194250738948, "elapsed_seconds": 0.6808624999830499, "certified": false}
+{"event": "finite_n_diagnostic", "n": 1048576, "baseline": 0.6874310983868943, "candidate": 0.687414098480745, "difference": -1.6999906149339772e-05, "heuristic_continuum_estimate": 0.6873188062803672, "elapsed_seconds": 5.89958204200957, "certified": false}

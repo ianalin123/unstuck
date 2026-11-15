@@ -1,0 +1,22 @@
+{"event": "start", "kind": "snake", "baseline": 2950, "source_solution_id": 2779, "source_agent": "kgrey", "elapsed_seconds": 0.004403749946504831}
+{"event": "tail_search_end", "cut": 0, "reverse": false, "nodes": 1, "deepest": 2950, "best": 2950, "elapsed_seconds": 0.0057264999486505985}
+{"event": "tail_search_end", "cut": 2, "reverse": false, "nodes": 3, "deepest": 2950, "best": 2950, "elapsed_seconds": 0.006771374959498644}
+{"event": "tail_search_end", "cut": 4, "reverse": false, "nodes": 5, "deepest": 2950, "best": 2950, "elapsed_seconds": 0.009055417031049728}
+{"event": "tail_search_end", "cut": 8, "reverse": false, "nodes": 10, "deepest": 2950, "best": 2950, "elapsed_seconds": 0.01113762496970594}
+{"event": "tail_search_end", "cut": 16, "reverse": false, "nodes": 18, "deepest": 2950, "best": 2950, "elapsed_seconds": 0.012751959031447768}
+{"event": "tail_search_end", "cut": 32, "reverse": false, "nodes": 136, "deepest": 2950, "best": 2950, "elapsed_seconds": 0.014031541999429464}
+{"event": "tail_search_end", "cut": 64, "reverse": false, "nodes": 64216, "deepest": 2950, "best": 2950, "elapsed_seconds": 0.15634904196485877}
+{"event": "tail_search_end", "cut": 128, "reverse": false, "nodes": 500001, "deepest": 2905, "best": 2950, "elapsed_seconds": 1.7262224169680849}
+{"event": "tail_search_end", "cut": 256, "reverse": false, "nodes": 500001, "deepest": 2849, "best": 2950, "elapsed_seconds": 2.84983033395838}
+{"event": "tail_search_end", "cut": 512, "reverse": false, "nodes": 500001, "deepest": 2752, "best": 2950, "elapsed_seconds": 4.3476608749479055}
+{"event": "tail_search_end", "cut": 0, "reverse": true, "nodes": 1, "deepest": 2950, "best": 2950, "elapsed_seconds": 4.349314916995354}
+{"event": "tail_search_end", "cut": 2, "reverse": true, "nodes": 3, "deepest": 2950, "best": 2950, "elapsed_seconds": 4.3503778339363635}
+{"event": "tail_search_end", "cut": 4, "reverse": true, "nodes": 5, "deepest": 2950, "best": 2950, "elapsed_seconds": 4.351272416999564}
+{"event": "tail_search_end", "cut": 8, "reverse": true, "nodes": 9, "deepest": 2950, "best": 2950, "elapsed_seconds": 4.352166709024459}
+{"event": "tail_search_end", "cut": 16, "reverse": true, "nodes": 45, "deepest": 2950, "best": 2950, "elapsed_seconds": 4.35321466694586}
+{"event": "tail_search_end", "cut": 32, "reverse": true, "nodes": 491, "deepest": 2950, "best": 2950, "elapsed_seconds": 4.355625374941155}
+{"event": "tail_search_end", "cut": 64, "reverse": true, "nodes": 75863, "deepest": 2950, "best": 2950, "elapsed_seconds": 4.5655475839739665}
+{"event": "tail_search_end", "cut": 128, "reverse": true, "nodes": 500001, "deepest": 2910, "best": 2950, "elapsed_seconds": 5.826965749962255}
+{"event": "tail_search_end", "cut": 256, "reverse": true, "nodes": 500001, "deepest": 2863, "best": 2950, "elapsed_seconds": 7.540060541941784}
+{"event": "tail_search_end", "cut": 512, "reverse": true, "nodes": 500001, "deepest": 2764, "best": 2950, "elapsed_seconds": 9.015725167002529}
+{"event": "finish", "kind": "snake", "baseline": 2950, "best": 2950, "source_solution_id": 2779, "elapsed_seconds": 9.016322499956004, "publicly_submitted": false}

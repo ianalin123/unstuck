@@ -1,0 +1,190 @@
+{"event": "start", "kind": "first", "source_solution_id": "research/track1/data/c1a-current/C1_262144_1.5026648332.txt.gz", "source_agent": "Mats Heming Julner / intervalplace; L. S. Cumes construction", "source_advertised": 1.5026648331747954, "baseline": 1.5026648331747963, "n": 262144, "args": {"check_gradient": false, "kind": "first", "seconds": 600, "iterations": 3000, "repeat": 1, "seed_index": 0, "random_seed": 42, "seed_file": "research/track1/data/c1a-current/C1_262144_1.5026648332.txt.gz", "precondition": true, "noise": 0, "betas": "1e9,1e10,1e11,1e12", "name": "first-fourier", "max_conflicts": 4, "drops": 12, "window_start": -1, "window_width": 2, "window_all": false, "nodes": 500000, "cutoff": "51/250", "bound": 0.68733, "stop_after_improvement": false}, "elapsed_seconds": 0.016726791043765843}
+{"event": "preconditioner", "method": "smoothed Fourier inverse magnitude; positive clipping; exact chain rule", "window": 17, "clip": [0.001, 100], "elapsed_seconds": 0.02297020808327943}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 1000000000.0, "calls": 100, "score": 1.5026648342059123, "best": 1.5026648331747963, "elapsed_seconds": 5.504651166033}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 1000000000.0, "calls": 200, "score": 1.5026648344224918, "best": 1.5026648331747963, "elapsed_seconds": 11.900395333068445}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 1000000000.0, "calls": 300, "score": 1.502664834938475, "best": 1.5026648331747963, "elapsed_seconds": 19.661540041095577}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 1000000000.0, "calls": 400, "score": 1.5026648349405594, "best": 1.5026648331747963, "elapsed_seconds": 26.094084791024216}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 1000000000.0, "calls": 500, "score": 1.5026648354539007, "best": 1.5026648331747963, "elapsed_seconds": 33.68678708304651}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 1000000000.0, "calls": 600, "score": 1.5026648359290675, "best": 1.5026648331747963, "elapsed_seconds": 40.580000290996395}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 1000000000.0, "calls": 700, "score": 1.5026648366991702, "best": 1.5026648331747963, "elapsed_seconds": 46.91131979099009}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 1000000000.0, "calls": 800, "score": 1.502664837586974, "best": 1.5026648331747963, "elapsed_seconds": 52.97739091608673}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 1000000000.0, "calls": 900, "score": 1.5026648382863996, "best": 1.5026648331747963, "elapsed_seconds": 58.214090208057314}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 1000000000.0, "calls": 1000, "score": 1.50266483879654, "best": 1.5026648331747963, "elapsed_seconds": 65.15219699998852}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 1000000000.0, "calls": 1100, "score": 1.502664839214955, "best": 1.5026648331747963, "elapsed_seconds": 71.6477163330419}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 1000000000.0, "calls": 1200, "score": 1.502664839482064, "best": 1.5026648331747963, "elapsed_seconds": 79.11873099999502}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 1000000000.0, "calls": 1300, "score": 1.5026648394499809, "best": 1.5026648331747963, "elapsed_seconds": 85.41036745801102}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 1000000000.0, "calls": 1400, "score": 1.5026648389862933, "best": 1.5026648331747963, "elapsed_seconds": 91.35043750004843}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 1000000000.0, "calls": 1500, "score": 1.5026648380232424, "best": 1.5026648331747963, "elapsed_seconds": 101.20663616608363}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 1000000000.0, "calls": 1600, "score": 1.5026648372498532, "best": 1.5026648331747963, "elapsed_seconds": 107.40727412502747}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 1000000000.0, "calls": 1700, "score": 1.5026648370981137, "best": 1.5026648331747963, "elapsed_seconds": 114.680514125037}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 1000000000.0, "calls": 1800, "score": 1.5026648379765364, "best": 1.5026648331747963, "elapsed_seconds": 120.0290514160879}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 1000000000.0, "calls": 1900, "score": 1.5026648388214094, "best": 1.5026648331747963, "elapsed_seconds": 126.86889991606586}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 1000000000.0, "calls": 2000, "score": 1.502664839433179, "best": 1.5026648331747963, "elapsed_seconds": 132.1988525830675}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 1000000000.0, "calls": 2100, "score": 1.5026648398202327, "best": 1.5026648331747963, "elapsed_seconds": 137.12203104107175}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 1000000000.0, "calls": 2200, "score": 1.5026648399680063, "best": 1.5026648331747963, "elapsed_seconds": 142.49485204101074}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 1000000000.0, "calls": 2300, "score": 1.5026648395190851, "best": 1.5026648331747963, "elapsed_seconds": 147.77340845798608}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 1000000000.0, "calls": 2400, "score": 1.5026648394123439, "best": 1.5026648331747963, "elapsed_seconds": 153.8880338750314}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 1000000000.0, "calls": 2500, "score": 1.502664839374382, "best": 1.5026648331747963, "elapsed_seconds": 160.09858049999457}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 1000000000.0, "calls": 2600, "score": 1.502664839176996, "best": 1.5026648331747963, "elapsed_seconds": 165.64238550001755}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 1000000000.0, "calls": 2700, "score": 1.5026648388911965, "best": 1.5026648331747963, "elapsed_seconds": 171.66231420799159}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 1000000000.0, "calls": 2800, "score": 1.5026648385294081, "best": 1.5026648331747963, "elapsed_seconds": 178.41184637509286}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 1000000000.0, "calls": 2900, "score": 1.5026648387980004, "best": 1.5026648331747963, "elapsed_seconds": 187.28220079105813}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 1000000000.0, "calls": 3000, "score": 1.5026648386792396, "best": 1.5026648331747963, "elapsed_seconds": 196.23813079099637}
+{"event": "stage_end", "beta": 1000000000.0, "iterations": 3000, "message": "STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT", "best": 1.5026648331747963, "elapsed_seconds": 196.72372524999082}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 10000000000.0, "calls": 100, "score": 1.5026648349896012, "best": 1.5026648331747963, "elapsed_seconds": 203.22544558299705}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 10000000000.0, "calls": 200, "score": 1.502664834667894, "best": 1.5026648331747963, "elapsed_seconds": 209.39095308305696}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 10000000000.0, "calls": 300, "score": 1.502664834358841, "best": 1.5026648331747963, "elapsed_seconds": 214.64845650002826}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 10000000000.0, "calls": 400, "score": 1.5026648344415563, "best": 1.5026648331747963, "elapsed_seconds": 219.91115191602148}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 10000000000.0, "calls": 500, "score": 1.5026648344806337, "best": 1.5026648331747963, "elapsed_seconds": 223.52267954102717}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 10000000000.0, "calls": 600, "score": 1.502664834209742, "best": 1.5026648331747963, "elapsed_seconds": 227.38285695808008}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 10000000000.0, "calls": 700, "score": 1.5026648343661295, "best": 1.5026648331747963, "elapsed_seconds": 231.40705224999692}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 10000000000.0, "calls": 800, "score": 1.502664833953423, "best": 1.5026648331747963, "elapsed_seconds": 235.22608891606797}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 10000000000.0, "calls": 900, "score": 1.50266483393334, "best": 1.5026648331747963, "elapsed_seconds": 239.82267091609538}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 10000000000.0, "calls": 1000, "score": 1.502664833910673, "best": 1.5026648331747963, "elapsed_seconds": 244.5992570410017}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 10000000000.0, "calls": 1100, "score": 1.5026648338952997, "best": 1.5026648331747963, "elapsed_seconds": 253.03225016605575}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 10000000000.0, "calls": 1200, "score": 1.502664833831643, "best": 1.5026648331747963, "elapsed_seconds": 258.37227454106323}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 10000000000.0, "calls": 1300, "score": 1.5026648338197715, "best": 1.5026648331747963, "elapsed_seconds": 263.72153012501076}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 10000000000.0, "calls": 1400, "score": 1.5026648337890283, "best": 1.5026648331747963, "elapsed_seconds": 268.7289910000982}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 10000000000.0, "calls": 1500, "score": 1.5026648338236135, "best": 1.5026648331747963, "elapsed_seconds": 273.49138150003273}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 10000000000.0, "calls": 1600, "score": 1.5026648337652455, "best": 1.5026648331747963, "elapsed_seconds": 279.2916340000229}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 10000000000.0, "calls": 1700, "score": 1.5026648338003108, "best": 1.5026648331747963, "elapsed_seconds": 284.78774887509644}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 10000000000.0, "calls": 1800, "score": 1.5026648337522617, "best": 1.5026648331747963, "elapsed_seconds": 288.748970790999}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 10000000000.0, "calls": 1900, "score": 1.502664833748124, "best": 1.5026648331747963, "elapsed_seconds": 292.819969541044}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 10000000000.0, "calls": 2000, "score": 1.5026648337182078, "best": 1.5026648331747963, "elapsed_seconds": 296.9288241660688}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 10000000000.0, "calls": 2100, "score": 1.5026648336951323, "best": 1.5026648331747963, "elapsed_seconds": 300.9885565410368}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 10000000000.0, "calls": 2200, "score": 1.502664833651941, "best": 1.5026648331747963, "elapsed_seconds": 305.3444261660334}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 10000000000.0, "calls": 2300, "score": 1.502664833636074, "best": 1.5026648331747963, "elapsed_seconds": 309.2457656660117}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 10000000000.0, "calls": 2400, "score": 1.5026648336575479, "best": 1.5026648331747963, "elapsed_seconds": 312.9863917910261}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 10000000000.0, "calls": 2500, "score": 1.5026648336611648, "best": 1.5026648331747963, "elapsed_seconds": 316.6298795409966}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 10000000000.0, "calls": 2600, "score": 1.502664833638235, "best": 1.5026648331747963, "elapsed_seconds": 320.6941799999913}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 10000000000.0, "calls": 2700, "score": 1.5026648336308803, "best": 1.5026648331747963, "elapsed_seconds": 325.12669158307835}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 10000000000.0, "calls": 2800, "score": 1.5026648337067796, "best": 1.5026648331747963, "elapsed_seconds": 328.8767302080523}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 10000000000.0, "calls": 2900, "score": 1.5026648337820072, "best": 1.5026648331747963, "elapsed_seconds": 332.5930902500404}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 10000000000.0, "calls": 3000, "score": 1.5026648338410113, "best": 1.5026648331747963, "elapsed_seconds": 336.37097445805557}
+{"event": "stage_end", "beta": 10000000000.0, "iterations": 3000, "message": "STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT", "best": 1.5026648331747963, "elapsed_seconds": 336.8702627500752}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 100000000000.0, "calls": 100, "score": 1.5026648333458885, "best": 1.5026648331747963, "elapsed_seconds": 341.30625016603153}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 100000000000.0, "calls": 200, "score": 1.50266483329097, "best": 1.5026648331747963, "elapsed_seconds": 346.9218191250693}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 100000000000.0, "calls": 300, "score": 1.50266483326467, "best": 1.5026648331747963, "elapsed_seconds": 351.9095037910156}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 100000000000.0, "calls": 400, "score": 1.5026648332491588, "best": 1.5026648331747963, "elapsed_seconds": 357.74515416601207}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 100000000000.0, "calls": 500, "score": 1.5026648332367336, "best": 1.5026648331747963, "elapsed_seconds": 361.6111703750212}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 100000000000.0, "calls": 600, "score": 1.5026648332287311, "best": 1.5026648331747963, "elapsed_seconds": 365.4196964580333}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 100000000000.0, "calls": 700, "score": 1.5026648332202892, "best": 1.5026648331747963, "elapsed_seconds": 369.429724458023}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 100000000000.0, "calls": 800, "score": 1.5026648332123085, "best": 1.5026648331747963, "elapsed_seconds": 373.2356906250352}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 100000000000.0, "calls": 900, "score": 1.5026648332070067, "best": 1.5026648331747963, "elapsed_seconds": 376.9929174160352}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 100000000000.0, "calls": 1000, "score": 1.5026648332004529, "best": 1.5026648331747963, "elapsed_seconds": 380.7182597910287}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 100000000000.0, "calls": 1100, "score": 1.502664833197909, "best": 1.5026648331747963, "elapsed_seconds": 385.0676587080816}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 100000000000.0, "calls": 1200, "score": 1.5026648331961052, "best": 1.5026648331747963, "elapsed_seconds": 388.76376700005494}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 100000000000.0, "calls": 1300, "score": 1.5026648331916213, "best": 1.5026648331747963, "elapsed_seconds": 392.34738620801363}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 100000000000.0, "calls": 1400, "score": 1.5026648331884422, "best": 1.5026648331747963, "elapsed_seconds": 396.1428835830884}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 100000000000.0, "calls": 1500, "score": 1.5026648331817007, "best": 1.5026648331747963, "elapsed_seconds": 399.9209463330917}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 100000000000.0, "calls": 1600, "score": 1.502664833179933, "best": 1.5026648331747963, "elapsed_seconds": 403.438695125049}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 100000000000.0, "calls": 1700, "score": 1.502664833181622, "best": 1.5026648331747963, "elapsed_seconds": 407.2238512909971}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 100000000000.0, "calls": 1800, "score": 1.5026648331760453, "best": 1.5026648331747963, "elapsed_seconds": 412.45887950004544}
+{"event": "improvement", "kind": "first", "n": 262144, "beta": 100000000000.0, "score": 1.5026648331737171, "calls": 1870, "elapsed_seconds": 416.39204520802014}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 100000000000.0, "calls": 1900, "score": 1.502664833173315, "best": 1.5026648331737171, "elapsed_seconds": 417.5967939160764}
+{"event": "improvement", "kind": "first", "n": 262144, "beta": 100000000000.0, "score": 1.5026648331725956, "calls": 1913, "elapsed_seconds": 418.13672733306885}
+{"event": "improvement", "kind": "first", "n": 262144, "beta": 100000000000.0, "score": 1.5026648331715429, "calls": 1929, "elapsed_seconds": 418.9054572500754}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 100000000000.0, "calls": 2000, "score": 1.5026648331709158, "best": 1.5026648331715429, "elapsed_seconds": 423.0734889160376}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 100000000000.0, "calls": 2100, "score": 1.5026648331752614, "best": 1.5026648331715429, "elapsed_seconds": 428.11772500001825}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 100000000000.0, "calls": 2200, "score": 1.5026648331741816, "best": 1.5026648331715429, "elapsed_seconds": 432.7787086660974}
+{"event": "improvement", "kind": "first", "n": 262144, "beta": 100000000000.0, "score": 1.5026648331704433, "calls": 2257, "elapsed_seconds": 435.12732141604647}
+{"event": "improvement", "kind": "first", "n": 262144, "beta": 100000000000.0, "score": 1.5026648331694235, "calls": 2277, "elapsed_seconds": 435.97586929099634}
+{"event": "improvement", "kind": "first", "n": 262144, "beta": 100000000000.0, "score": 1.5026648331683685, "calls": 2299, "elapsed_seconds": 436.8154532080516}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 100000000000.0, "calls": 2300, "score": 1.502664833168587, "best": 1.5026648331683685, "elapsed_seconds": 436.8522101660492}
+{"event": "improvement", "kind": "first", "n": 262144, "beta": 100000000000.0, "score": 1.5026648331673491, "calls": 2327, "elapsed_seconds": 437.89869175001513}
+{"event": "improvement", "kind": "first", "n": 262144, "beta": 100000000000.0, "score": 1.5026648331663144, "calls": 2345, "elapsed_seconds": 438.55717450007796}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 100000000000.0, "calls": 2400, "score": 1.50266483316629, "best": 1.5026648331663144, "elapsed_seconds": 440.6117029580055}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 100000000000.0, "calls": 2500, "score": 1.5026648331659227, "best": 1.5026648331663144, "elapsed_seconds": 444.61873520805966}
+{"event": "improvement", "kind": "first", "n": 262144, "beta": 100000000000.0, "score": 1.502664833165314, "calls": 2551, "elapsed_seconds": 446.62170941603836}
+{"event": "improvement", "kind": "first", "n": 262144, "beta": 100000000000.0, "score": 1.5026648331642676, "calls": 2584, "elapsed_seconds": 447.8096525000874}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 100000000000.0, "calls": 2600, "score": 1.50266483316368, "best": 1.5026648331642676, "elapsed_seconds": 448.3583393750014}
+{"event": "improvement", "kind": "first", "n": 262144, "beta": 100000000000.0, "score": 1.5026648331631816, "calls": 2603, "elapsed_seconds": 448.48381845804397}
+{"event": "improvement", "kind": "first", "n": 262144, "beta": 100000000000.0, "score": 1.5026648331621164, "calls": 2618, "elapsed_seconds": 449.0373357500648}
+{"event": "improvement", "kind": "first", "n": 262144, "beta": 100000000000.0, "score": 1.5026648331611017, "calls": 2639, "elapsed_seconds": 449.8218413750874}
+{"event": "improvement", "kind": "first", "n": 262144, "beta": 100000000000.0, "score": 1.5026648331600825, "calls": 2656, "elapsed_seconds": 450.4433736660285}
+{"event": "improvement", "kind": "first", "n": 262144, "beta": 100000000000.0, "score": 1.5026648331590096, "calls": 2683, "elapsed_seconds": 451.5105866660597}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 100000000000.0, "calls": 2700, "score": 1.5026648331646437, "best": 1.5026648331590096, "elapsed_seconds": 452.159369083005}
+{"event": "improvement", "kind": "first", "n": 262144, "beta": 100000000000.0, "score": 1.502664833157684, "calls": 2714, "elapsed_seconds": 452.67976041603833}
+{"event": "improvement", "kind": "first", "n": 262144, "beta": 100000000000.0, "score": 1.5026648331566665, "calls": 2741, "elapsed_seconds": 453.63072920800187}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 100000000000.0, "calls": 2800, "score": 1.5026648331565529, "best": 1.5026648331566665, "elapsed_seconds": 455.92574391607195}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 100000000000.0, "calls": 2900, "score": 1.5026648331575572, "best": 1.5026648331566665, "elapsed_seconds": 459.67667587508913}
+{"event": "improvement", "kind": "first", "n": 262144, "beta": 100000000000.0, "score": 1.5026648331554515, "calls": 2953, "elapsed_seconds": 461.6202134999912}
+{"event": "improvement", "kind": "first", "n": 262144, "beta": 100000000000.0, "score": 1.5026648331543528, "calls": 2973, "elapsed_seconds": 462.35100104101}
+{"event": "improvement", "kind": "first", "n": 262144, "beta": 100000000000.0, "score": 1.5026648331533332, "calls": 2986, "elapsed_seconds": 462.83247591601685}
+{"event": "improvement", "kind": "first", "n": 262144, "beta": 100000000000.0, "score": 1.5026648331521377, "calls": 2998, "elapsed_seconds": 463.26992458302993}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 100000000000.0, "calls": 3000, "score": 1.502664833151773, "best": 1.5026648331521377, "elapsed_seconds": 463.34451579104643}
+{"event": "improvement", "kind": "first", "n": 262144, "beta": 100000000000.0, "score": 1.502664833150954, "calls": 3012, "elapsed_seconds": 463.77273241605144}
+{"event": "stage_end", "beta": 100000000000.0, "iterations": 3000, "message": "STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT", "best": 1.502664833150954, "elapsed_seconds": 463.8483447910985}
+{"event": "improvement", "kind": "first", "n": 262144, "beta": 1000000000000.0, "score": 1.502664833143482, "calls": 11, "elapsed_seconds": 464.1847246250836}
+{"event": "improvement", "kind": "first", "n": 262144, "beta": 1000000000000.0, "score": 1.502664833136811, "calls": 12, "elapsed_seconds": 464.2105165000539}
+{"event": "improvement", "kind": "first", "n": 262144, "beta": 1000000000000.0, "score": 1.5026648331351677, "calls": 13, "elapsed_seconds": 464.23950533301104}
+{"event": "improvement", "kind": "first", "n": 262144, "beta": 1000000000000.0, "score": 1.5026648331319876, "calls": 15, "elapsed_seconds": 464.2972319580149}
+{"event": "improvement", "kind": "first", "n": 262144, "beta": 1000000000000.0, "score": 1.502664833130158, "calls": 16, "elapsed_seconds": 464.3286616660189}
+{"event": "improvement", "kind": "first", "n": 262144, "beta": 1000000000000.0, "score": 1.5026648331277608, "calls": 19, "elapsed_seconds": 464.4328734159935}
+{"event": "improvement", "kind": "first", "n": 262144, "beta": 1000000000000.0, "score": 1.5026648331263577, "calls": 20, "elapsed_seconds": 464.4715266251005}
+{"event": "improvement", "kind": "first", "n": 262144, "beta": 1000000000000.0, "score": 1.5026648331248167, "calls": 23, "elapsed_seconds": 464.5791030830005}
+{"event": "improvement", "kind": "first", "n": 262144, "beta": 1000000000000.0, "score": 1.5026648331228791, "calls": 27, "elapsed_seconds": 464.7241734160343}
+{"event": "improvement", "kind": "first", "n": 262144, "beta": 1000000000000.0, "score": 1.5026648331217518, "calls": 31, "elapsed_seconds": 464.87023987504654}
+{"event": "improvement", "kind": "first", "n": 262144, "beta": 1000000000000.0, "score": 1.5026648331199306, "calls": 39, "elapsed_seconds": 465.1662748750532}
+{"event": "improvement", "kind": "first", "n": 262144, "beta": 1000000000000.0, "score": 1.5026648331184456, "calls": 51, "elapsed_seconds": 465.6351118750172}
+{"event": "improvement", "kind": "first", "n": 262144, "beta": 1000000000000.0, "score": 1.5026648331174088, "calls": 59, "elapsed_seconds": 465.9190495410003}
+{"event": "improvement", "kind": "first", "n": 262144, "beta": 1000000000000.0, "score": 1.502664833116351, "calls": 64, "elapsed_seconds": 466.1012845830992}
+{"event": "improvement", "kind": "first", "n": 262144, "beta": 1000000000000.0, "score": 1.5026648331152752, "calls": 77, "elapsed_seconds": 466.6309711660724}
+{"event": "improvement", "kind": "first", "n": 262144, "beta": 1000000000000.0, "score": 1.5026648331141528, "calls": 95, "elapsed_seconds": 467.33850558300037}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 1000000000000.0, "calls": 100, "score": 1.5026648331134278, "best": 1.5026648331141528, "elapsed_seconds": 467.53556054108776}
+{"event": "improvement", "kind": "first", "n": 262144, "beta": 1000000000000.0, "score": 1.5026648331130226, "calls": 103, "elapsed_seconds": 467.64380041603}
+{"event": "improvement", "kind": "first", "n": 262144, "beta": 1000000000000.0, "score": 1.5026648331120107, "calls": 122, "elapsed_seconds": 468.31188854109496}
+{"event": "improvement", "kind": "first", "n": 262144, "beta": 1000000000000.0, "score": 1.5026648331109995, "calls": 144, "elapsed_seconds": 469.0841488330625}
+{"event": "improvement", "kind": "first", "n": 262144, "beta": 1000000000000.0, "score": 1.5026648331099484, "calls": 182, "elapsed_seconds": 470.39759029098786}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 1000000000000.0, "calls": 200, "score": 1.5026648331098684, "best": 1.5026648331099484, "elapsed_seconds": 471.05667079100385}
+{"event": "improvement", "kind": "first", "n": 262144, "beta": 1000000000000.0, "score": 1.5026648331087888, "calls": 221, "elapsed_seconds": 471.88249137508683}
+{"event": "improvement", "kind": "first", "n": 262144, "beta": 1000000000000.0, "score": 1.502664833107725, "calls": 257, "elapsed_seconds": 473.3984005410457}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 1000000000000.0, "calls": 300, "score": 1.5026648331070553, "best": 1.502664833107725, "elapsed_seconds": 475.1584549580002}
+{"event": "improvement", "kind": "first", "n": 262144, "beta": 1000000000000.0, "score": 1.5026648331067023, "calls": 308, "elapsed_seconds": 475.4406195830088}
+{"event": "improvement", "kind": "first", "n": 262144, "beta": 1000000000000.0, "score": 1.5026648331056887, "calls": 369, "elapsed_seconds": 477.7120052910177}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 1000000000000.0, "calls": 400, "score": 1.5026648331054488, "best": 1.5026648331056887, "elapsed_seconds": 478.84284929104615}
+{"event": "improvement", "kind": "first", "n": 262144, "beta": 1000000000000.0, "score": 1.5026648331045924, "calls": 484, "elapsed_seconds": 481.9283267080318}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 1000000000000.0, "calls": 500, "score": 1.502664833104559, "best": 1.5026648331045924, "elapsed_seconds": 482.50117575004697}
+{"event": "improvement", "kind": "first", "n": 262144, "beta": 1000000000000.0, "score": 1.5026648331035213, "calls": 567, "elapsed_seconds": 484.910409458098}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 1000000000000.0, "calls": 600, "score": 1.5026648331032402, "best": 1.5026648331035213, "elapsed_seconds": 486.40710366598796}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 1000000000000.0, "calls": 700, "score": 1.5026648331030197, "best": 1.5026648331035213, "elapsed_seconds": 490.37094862503}
+{"event": "improvement", "kind": "first", "n": 262144, "beta": 1000000000000.0, "score": 1.502664833102498, "calls": 800, "elapsed_seconds": 494.3290585000068}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 1000000000000.0, "calls": 800, "score": 1.502664833102498, "best": 1.502664833102498, "elapsed_seconds": 494.32915750006214}
+{"event": "improvement", "kind": "first", "n": 262144, "beta": 1000000000000.0, "score": 1.502664833101466, "calls": 893, "elapsed_seconds": 497.82518554106355}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 1000000000000.0, "calls": 900, "score": 1.5026648331016428, "best": 1.502664833101466, "elapsed_seconds": 498.0946907910984}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 1000000000000.0, "calls": 1000, "score": 1.502664833101129, "best": 1.502664833101466, "elapsed_seconds": 502.0110085000051}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 1000000000000.0, "calls": 1100, "score": 1.5026648331008372, "best": 1.502664833101466, "elapsed_seconds": 506.33465666603297}
+{"event": "improvement", "kind": "first", "n": 262144, "beta": 1000000000000.0, "score": 1.5026648331004324, "calls": 1134, "elapsed_seconds": 507.88200625008903}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 1000000000000.0, "calls": 1200, "score": 1.50266483310023, "best": 1.5026648331004324, "elapsed_seconds": 510.9582370830467}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 1000000000000.0, "calls": 1300, "score": 1.5026648330998582, "best": 1.5026648331004324, "elapsed_seconds": 516.8253043750301}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 1000000000000.0, "calls": 1400, "score": 1.502664833099686, "best": 1.5026648331004324, "elapsed_seconds": 521.3566795830848}
+{"event": "improvement", "kind": "first", "n": 262144, "beta": 1000000000000.0, "score": 1.5026648330994168, "calls": 1428, "elapsed_seconds": 522.4113712080289}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 1000000000000.0, "calls": 1500, "score": 1.5026648330986538, "best": 1.5026648330994168, "elapsed_seconds": 525.9073649999918}
+{"event": "improvement", "kind": "first", "n": 262144, "beta": 1000000000000.0, "score": 1.5026648330983807, "calls": 1581, "elapsed_seconds": 529.2426321250387}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 1000000000000.0, "calls": 1600, "score": 1.5026648330982253, "best": 1.5026648330983807, "elapsed_seconds": 530.3582879999885}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 1000000000000.0, "calls": 1700, "score": 1.502664833097657, "best": 1.5026648330983807, "elapsed_seconds": 535.1800127910683}
+{"event": "improvement", "kind": "first", "n": 262144, "beta": 1000000000000.0, "score": 1.50266483309727, "calls": 1738, "elapsed_seconds": 536.5914091250161}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 1000000000000.0, "calls": 1800, "score": 1.5026648330969437, "best": 1.50266483309727, "elapsed_seconds": 539.1304941660492}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 1000000000000.0, "calls": 1900, "score": 1.5026648330966728, "best": 1.50266483309727, "elapsed_seconds": 542.871622583014}
+{"event": "improvement", "kind": "first", "n": 262144, "beta": 1000000000000.0, "score": 1.5026648330962578, "calls": 1984, "elapsed_seconds": 547.0659850829979}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 1000000000000.0, "calls": 2000, "score": 1.5026648330962131, "best": 1.5026648330962578, "elapsed_seconds": 547.699008250027}
+{"event": "improvement", "kind": "first", "n": 262144, "beta": 1000000000000.0, "score": 1.5026648330952121, "calls": 2087, "elapsed_seconds": 551.3682995830895}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 1000000000000.0, "calls": 2100, "score": 1.502664833095199, "best": 1.5026648330952121, "elapsed_seconds": 551.873673291062}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 1000000000000.0, "calls": 2200, "score": 1.5026648330949088, "best": 1.5026648330952121, "elapsed_seconds": 555.9930791250663}
+{"event": "improvement", "kind": "first", "n": 262144, "beta": 1000000000000.0, "score": 1.5026648330940424, "calls": 2291, "elapsed_seconds": 559.2137428750284}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 1000000000000.0, "calls": 2300, "score": 1.5026648330940948, "best": 1.5026648330940424, "elapsed_seconds": 559.5939071250614}
+{"event": "improvement", "kind": "first", "n": 262144, "beta": 1000000000000.0, "score": 1.5026648330930177, "calls": 2363, "elapsed_seconds": 562.2100103329867}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 1000000000000.0, "calls": 2400, "score": 1.5026648330928785, "best": 1.5026648330930177, "elapsed_seconds": 563.8925146250986}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 1000000000000.0, "calls": 2500, "score": 1.5026648330931776, "best": 1.5026648330930177, "elapsed_seconds": 568.9000038750237}
+{"event": "improvement", "kind": "first", "n": 262144, "beta": 1000000000000.0, "score": 1.5026648330918575, "calls": 2527, "elapsed_seconds": 569.9366352499928}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 1000000000000.0, "calls": 2600, "score": 1.5026648330915409, "best": 1.5026648330918575, "elapsed_seconds": 572.6485251660924}
+{"event": "improvement", "kind": "first", "n": 262144, "beta": 1000000000000.0, "score": 1.5026648330908552, "calls": 2658, "elapsed_seconds": 575.3202448330121}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 1000000000000.0, "calls": 2700, "score": 1.5026648330912922, "best": 1.5026648330908552, "elapsed_seconds": 577.2280095830793}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 1000000000000.0, "calls": 2800, "score": 1.5026648330905976, "best": 1.5026648330908552, "elapsed_seconds": 581.3459233749891}
+{"event": "improvement", "kind": "first", "n": 262144, "beta": 1000000000000.0, "score": 1.5026648330897883, "calls": 2834, "elapsed_seconds": 582.7666450410616}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 1000000000000.0, "calls": 2900, "score": 1.5026648330891197, "best": 1.5026648330897883, "elapsed_seconds": 586.1629204161}
+{"event": "improvement", "kind": "first", "n": 262144, "beta": 1000000000000.0, "score": 1.50266483308877, "calls": 2911, "elapsed_seconds": 586.6373095830204}
+{"event": "progress", "kind": "first", "n": 262144, "beta": 1000000000000.0, "calls": 3000, "score": 1.5026648330880472, "best": 1.50266483308877, "elapsed_seconds": 590.845088416012}
+{"event": "improvement", "kind": "first", "n": 262144, "beta": 1000000000000.0, "score": 1.5026648330875432, "calls": 3034, "elapsed_seconds": 592.1800978750689}
+{"event": "stage_end", "beta": 1000000000000.0, "iterations": 3000, "message": "STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT", "best": 1.5026648330875432, "elapsed_seconds": 594.103897083085}
+{"event": "finish", "kind": "first", "baseline": 1.5026648331747963, "best_fft_score": 1.5026648330875432, "source_score": 1.5026648331747954, "source_solution_id": "research/track1/data/c1a-current/C1_262144_1.5026648332.txt.gz", "elapsed_seconds": 594.2067445410648, "officially_verified": false, "publicly_submitted": false}

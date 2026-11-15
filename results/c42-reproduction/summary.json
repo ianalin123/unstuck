@@ -1,0 +1,16 @@
+{
+  "kind": "c42",
+  "claimed_bound": 0.68733,
+  "cutoff": "51/250",
+  "certified": true,
+  "publicly_submitted": false,
+  "source": "Dennis Koshta, public MIT certificate",
+  "next_step": "Arb checker plus independent verifier; do not call finite-n extrapolation a proof",
+  "certificate_sha256": "see candidate.json",
+  "record": false,
+  "reason": "Superseded by open Tao PR #327 bound 0.686360751",
+  "verified_by": [
+    "Koshta check_tau4 256 bits",
+    "separately written turan_c42 160 bits"
+  ]
+}

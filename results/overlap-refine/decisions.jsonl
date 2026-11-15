@@ -1,0 +1,58 @@
+{"event": "start", "kind": "overlap", "source_solution_id": 2643, "source_agent": "Blob", "baseline": 0.38085625977797655, "args": {"check_gradient": false, "kind": "overlap", "seconds": 180, "iterations": 2000, "repeat": 1, "seed_index": 0, "random_seed": 42, "noise": 0, "betas": "1e6,1e7,1e8,1e9", "name": "overlap-refine", "max_conflicts": 4, "drops": 12, "window_start": -1, "window_width": 2, "window_all": false, "nodes": 500000, "stop_after_improvement": false}, "elapsed_seconds": 0.008608333067968488}
+{"event": "progress", "beta": 1000000.0, "iteration": 0, "score": 0.38085625977797655, "best": 0.38085625977797655, "step": 1.953125e-05, "elapsed_seconds": 0.0904864170588553}
+{"event": "progress", "beta": 1000000.0, "iteration": 100, "score": 0.3808567351712757, "best": 0.38085625977797655, "step": 1.6735158554271002e-05, "elapsed_seconds": 2.483071208000183}
+{"event": "progress", "beta": 1000000.0, "iteration": 200, "score": 0.38085670646260095, "best": 0.38085625977797655, "step": 1.4487492263190738e-05, "elapsed_seconds": 5.016437500016764}
+{"event": "progress", "beta": 1000000.0, "iteration": 300, "score": 0.3808567546813728, "best": 0.38085625977797655, "step": 8.558971233997415e-06, "elapsed_seconds": 7.862026083050296}
+{"event": "progress", "beta": 1000000.0, "iteration": 400, "score": 0.3808567836891276, "best": 0.38085625977797655, "step": 6.864167648226367e-06, "elapsed_seconds": 10.918189416988753}
+{"event": "progress", "beta": 1000000.0, "iteration": 500, "score": 0.38085681262844834, "best": 0.38085625977797655, "step": 7.329891019888365e-05, "elapsed_seconds": 13.56027975003235}
+{"event": "progress", "beta": 1000000.0, "iteration": 600, "score": 0.38085682621613764, "best": 0.38085625977797655, "step": 9.421384665901088e-06, "elapsed_seconds": 16.74081712507177}
+{"event": "progress", "beta": 1000000.0, "iteration": 700, "score": 0.3808568456021896, "best": 0.38085625977797655, "step": 0.00011269170347272565, "elapsed_seconds": 19.570515375002287}
+{"event": "progress", "beta": 1000000.0, "iteration": 800, "score": 0.3808568630274455, "best": 0.38085625977797655, "step": 9.743222441219002e-06, "elapsed_seconds": 22.491445083054714}
+{"event": "progress", "beta": 1000000.0, "iteration": 900, "score": 0.38085688085847275, "best": 0.38085625977797655, "step": 1.2369166256540076e-05, "elapsed_seconds": 26.06740541709587}
+{"event": "progress", "beta": 1000000.0, "iteration": 1000, "score": 0.3808568887276443, "best": 0.38085625977797655, "step": 9.549781667075686e-06, "elapsed_seconds": 28.627394333016127}
+{"event": "progress", "beta": 1000000.0, "iteration": 1100, "score": 0.3808569060769451, "best": 0.38085625977797655, "step": 7.497998311509497e-06, "elapsed_seconds": 32.30696212500334}
+{"event": "progress", "beta": 1000000.0, "iteration": 1200, "score": 0.3808569139809647, "best": 0.38085625977797655, "step": 7.680414241785655e-06, "elapsed_seconds": 35.776773374993354}
+{"event": "progress", "beta": 1000000.0, "iteration": 1300, "score": 0.38085692986137176, "best": 0.38085625977797655, "step": 1.022101272101896e-05, "elapsed_seconds": 38.63508254208136}
+{"event": "progress", "beta": 1000000.0, "iteration": 1400, "score": 0.38085693609516524, "best": 0.38085625977797655, "step": 1.7323363040541338e-05, "elapsed_seconds": 41.095422749989666}
+{"event": "progress", "beta": 1000000.0, "iteration": 1500, "score": 0.3808569479563996, "best": 0.38085625977797655, "step": 2.5164725002702785e-05, "elapsed_seconds": 43.6864895420149}
+{"event": "progress", "beta": 1000000.0, "iteration": 1600, "score": 0.3808569618337869, "best": 0.38085625977797655, "step": 8.572952031141721e-06, "elapsed_seconds": 46.55807654198725}
+{"event": "progress", "beta": 1000000.0, "iteration": 1700, "score": 0.38085696619278575, "best": 0.38085625977797655, "step": 7.199583774705655e-06, "elapsed_seconds": 49.066893375013024}
+{"event": "progress", "beta": 1000000.0, "iteration": 1800, "score": 0.3808569742988992, "best": 0.38085625977797655, "step": 2.7705910090530596e-05, "elapsed_seconds": 51.89328783308156}
+{"event": "progress", "beta": 1000000.0, "iteration": 1900, "score": 0.3808569834541987, "best": 0.38085625977797655, "step": 1.1709888698006497e-05, "elapsed_seconds": 54.489461292047054}
+{"event": "stage_end", "beta": 1000000.0, "iterations": 2000, "best": 0.38085625977797655, "elapsed_seconds": 57.58148712501861}
+{"event": "progress", "beta": 10000000.0, "iteration": 0, "score": 0.3808569929938758, "best": 0.38085625977797655, "step": 1.220703125e-06, "elapsed_seconds": 57.751718917046674}
+{"event": "progress", "beta": 10000000.0, "iteration": 100, "score": 0.3808565633643796, "best": 0.38085625977797655, "step": 2.0613559080594494e-06, "elapsed_seconds": 60.325685542076826}
+{"event": "progress", "beta": 10000000.0, "iteration": 200, "score": 0.3808565403621269, "best": 0.38085625977797655, "step": 6.733149029219595e-07, "elapsed_seconds": 63.48086512507871}
+{"event": "progress", "beta": 10000000.0, "iteration": 300, "score": 0.380856531216082, "best": 0.38085625977797655, "step": 6.763262405334424e-07, "elapsed_seconds": 66.98890112503432}
+{"event": "progress", "beta": 10000000.0, "iteration": 400, "score": 0.38085651876593096, "best": 0.38085625977797655, "step": 7.750071493935296e-06, "elapsed_seconds": 69.82806395809166}
+{"event": "progress", "beta": 10000000.0, "iteration": 500, "score": 0.3808565077777842, "best": 0.38085625977797655, "step": 1.039440135315834e-06, "elapsed_seconds": 72.81349429208785}
+{"event": "progress", "beta": 10000000.0, "iteration": 600, "score": 0.38085649955701306, "best": 0.38085625977797655, "step": 7.154186944699748e-06, "elapsed_seconds": 75.81425829208456}
+{"event": "progress", "beta": 10000000.0, "iteration": 700, "score": 0.3808564888789042, "best": 0.38085625977797655, "step": 8.555786409983539e-07, "elapsed_seconds": 78.77224700001534}
+{"event": "progress", "beta": 10000000.0, "iteration": 800, "score": 0.38085647849217164, "best": 0.38085625977797655, "step": 2.97987647126466e-06, "elapsed_seconds": 81.61904412508011}
+{"event": "progress", "beta": 10000000.0, "iteration": 900, "score": 0.380856466175259, "best": 0.38085625977797655, "step": 8.350593450892021e-07, "elapsed_seconds": 84.49904045800213}
+{"event": "progress", "beta": 10000000.0, "iteration": 1000, "score": 0.3808564587142006, "best": 0.38085625977797655, "step": 7.565159763812213e-07, "elapsed_seconds": 87.64530458301306}
+{"event": "progress", "beta": 10000000.0, "iteration": 1100, "score": 0.380856454005532, "best": 0.38085625977797655, "step": 4.93285370645997e-06, "elapsed_seconds": 91.02473950001877}
+{"event": "progress", "beta": 10000000.0, "iteration": 1200, "score": 0.3808564497949464, "best": 0.38085625977797655, "step": 1.2198162200701154e-06, "elapsed_seconds": 95.80382933304645}
+{"event": "progress", "beta": 10000000.0, "iteration": 1300, "score": 0.38085644410659303, "best": 0.38085625977797655, "step": 3.5246356067243833e-06, "elapsed_seconds": 98.79326241707895}
+{"event": "progress", "beta": 10000000.0, "iteration": 1400, "score": 0.38085643963362054, "best": 0.38085625977797655, "step": 6.244019191586265e-07, "elapsed_seconds": 101.23872825002763}
+{"event": "progress", "beta": 10000000.0, "iteration": 1500, "score": 0.3808564328012358, "best": 0.38085625977797655, "step": 3.4971613523489417e-06, "elapsed_seconds": 104.22175108303782}
+{"event": "progress", "beta": 10000000.0, "iteration": 1600, "score": 0.38085642736019254, "best": 0.38085625977797655, "step": 1.3575065680618336e-06, "elapsed_seconds": 108.89840745809488}
+{"event": "progress", "beta": 10000000.0, "iteration": 1700, "score": 0.3808564183153372, "best": 0.38085625977797655, "step": 7.130161864291465e-07, "elapsed_seconds": 115.00030441698618}
+{"event": "progress", "beta": 10000000.0, "iteration": 1800, "score": 0.3808564091670929, "best": 0.38085625977797655, "step": 7.229191320979936e-06, "elapsed_seconds": 120.48925820807926}
+{"event": "progress", "beta": 10000000.0, "iteration": 1900, "score": 0.3808564053587506, "best": 0.38085625977797655, "step": 6.787357273040135e-07, "elapsed_seconds": 124.66466262505855}
+{"event": "stage_end", "beta": 10000000.0, "iterations": 2000, "best": 0.38085625977797655, "elapsed_seconds": 128.4975116250571}
+{"event": "progress", "beta": 100000000.0, "iteration": 0, "score": 0.38085640164082313, "best": 0.38085625977797655, "step": 7.62939453125e-08, "elapsed_seconds": 128.75128991703968}
+{"event": "progress", "beta": 100000000.0, "iteration": 100, "score": 0.38085634805590296, "best": 0.38085625977797655, "step": 3.1491654905597156e-07, "elapsed_seconds": 131.39763850008603}
+{"event": "progress", "beta": 100000000.0, "iteration": 200, "score": 0.3808563417332481, "best": 0.38085625977797655, "step": 5.791046216993279e-08, "elapsed_seconds": 134.32358158298302}
+{"event": "progress", "beta": 100000000.0, "iteration": 300, "score": 0.3808563398588134, "best": 0.38085625977797655, "step": 5.935285740871456e-08, "elapsed_seconds": 137.05238620808814}
+{"event": "progress", "beta": 100000000.0, "iteration": 400, "score": 0.38085633788986195, "best": 0.38085625977797655, "step": 2.446809332065496e-07, "elapsed_seconds": 139.78082375007216}
+{"event": "progress", "beta": 100000000.0, "iteration": 500, "score": 0.38085633633067917, "best": 0.38085625977797655, "step": 6.56951441030331e-08, "elapsed_seconds": 142.6572262920672}
+{"event": "progress", "beta": 100000000.0, "iteration": 600, "score": 0.38085633482045567, "best": 0.38085625977797655, "step": 6.524791259227633e-08, "elapsed_seconds": 145.63067187508568}
+{"event": "progress", "beta": 100000000.0, "iteration": 700, "score": 0.38085633367613747, "best": 0.38085625977797655, "step": 6.33334307359146e-08, "elapsed_seconds": 148.56384300009813}
+{"event": "progress", "beta": 100000000.0, "iteration": 800, "score": 0.3808563316315874, "best": 0.38085625977797655, "step": 4.897844598203564e-08, "elapsed_seconds": 153.28510420804378}
+{"event": "progress", "beta": 100000000.0, "iteration": 900, "score": 0.3808563302437463, "best": 0.38085625977797655, "step": 9.923467839628784e-08, "elapsed_seconds": 156.6651703750249}
+{"event": "progress", "beta": 100000000.0, "iteration": 1000, "score": 0.38085632962809773, "best": 0.38085625977797655, "step": 8.495327231519021e-08, "elapsed_seconds": 162.38857350009494}
+{"event": "progress", "beta": 100000000.0, "iteration": 1100, "score": 0.3808563286939536, "best": 0.38085625977797655, "step": 5.6486776276047326e-08, "elapsed_seconds": 166.27245545806363}
+{"event": "progress", "beta": 100000000.0, "iteration": 1200, "score": 0.3808563275049225, "best": 0.38085625977797655, "step": 6.488937570101293e-08, "elapsed_seconds": 173.48241262498777}
+{"event": "stage_end", "beta": 100000000.0, "iterations": 1274, "best": 0.38085625977797655, "elapsed_seconds": 180.12932558299508}
+{"event": "finish", "kind": "overlap", "baseline": 0.38085625977797655, "best_fft_score": 0.38085625977797655, "source_solution_id": 2643, "elapsed_seconds": 180.162652292056, "officially_verified": false, "publicly_submitted": false}

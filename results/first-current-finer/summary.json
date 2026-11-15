@@ -1,0 +1,16 @@
+{
+  "kind": "first",
+  "baseline": 1.502664833174796,
+  "best_fft_score": 1.50266483277927,
+  "source_score": 1.5026648331747954,
+  "source_solution_id": "research/track1/data/c1a-current/C1_262144_1.5026648332.txt.gz",
+  "elapsed_seconds": 703.1167590420227,
+  "officially_verified": false,
+  "publicly_submitted": false,
+  "mathematical_score": "2 n max of nonnegative integer autoconvolution / sum heights squared",
+  "no_public_submission": true,
+  "exactly_verified": true,
+  "worldwide_priority_exhaustive": false,
+  "exact_witness": "candidate-integers.txt.gz",
+  "exact_verification": "exact-verification.json"
+}

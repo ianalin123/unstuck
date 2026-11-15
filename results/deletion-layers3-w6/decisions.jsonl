@@ -1,0 +1,4 @@
+{"event": "start", "kind": "deletion", "source_solution_id": 2778, "source_agent": "kgrey", "baseline": 226, "max_conflicts": 4, "drop_budget": -1, "pool_size": 3730, "random_seed": 42, "window_start": 6, "window_width": 3, "frozen": 127, "elapsed_seconds": 7.866695523262024e-05}
+{"event": "model_ready", "variables": 3730, "constraints": 10021, "elapsed_seconds": 0.05439908301923424}
+{"event": "feasible_code", "score": 226, "bound": 3842.0, "elapsed_seconds": 0.8260201249504462}
+{"event": "finish", "kind": "deletion", "status": "FEASIBLE", "baseline": 226, "best": 226, "objective_bound": 293.0, "wall_seconds": 45.012226000000005, "source_solution_id": 2778, "max_conflicts": 4, "drop_budget": -1, "elapsed_seconds": 45.069825000013225, "publicly_submitted": false}

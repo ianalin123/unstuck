@@ -1,0 +1,15 @@
+{
+  "url": "https://raw.githubusercontent.com/intervalplace/frontier/8c9fa72/c1-first-autocorrelation/C1_262144_1.5026648336.txt",
+  "sha256": "b33995fe340396b6830ee8b1c6ec270acf9fdde59a35db6cb4e9f558d4f35495",
+  "credit": "Mats Heming Julner / intervalplace, refining L. S. Cumes (QWNTL Labs) construction",
+  "source_only": "warm-start public data; no source optimizer used",
+  "known_bound": 1.5026648336144073,
+  "newer_witness": {
+    "url": "https://github.com/intervalplace/frontier/blob/9edc297/c1-first-autocorrelation/C1_262144_1.5026648332.txt",
+    "sha256": "4c257d45c15e582c39f61dea11f1e47a7fba33eba6f6862cfd45e69b56f00a1f",
+    "exact_score": "735013322210029338350039415555883008/489139897323017668625465543540606041",
+    "independent_public_replay": "https://github.com/teorth/optimizationproblems/pull/367#issuecomment-6878835804",
+    "our_replay": "../../results/c1a-baseline-exact.json",
+    "fetched_at": "2026-11-15T20:31:00Z"
+  }
+}
